@@ -1,186 +1,95 @@
-# conscience_layer (v0.1.0)
+# Conscience Layer Prototype — 2025 Edition  
+### Embedding Ethical Awareness into Artificial Intelligence  
 
-**Conscience Layer — Ethical Awareness Core**  
-Original concept and authorship: Aleksandar Rodić (2025)
+**Author:** Aleksandar Rodić  
+Entrepreneur, Visionary, and Founder of the *Conscience by Design* Initiative  
 
-This package provides a minimal, working **Policy Gate** computing proxy ethical signals:
-- TIS — Truth Integrity Score (Spearman ρ mapped to [0,1])
-- HAI_share — permutation-importance share of autonomy
-- SRQ — stability under +0.25 shift of societal context
+---
 
-Conscience Layer SRQ – Ethical AI Prototype
-===========================================
+## 🧩 Overview  
 
-This repository contains a prototype implementation of a Conscience Layer designed to introduce ethical self-regulation, explainability, and transparency into AI model behavior. It demonstrates how an AI system can:
+The **Conscience Layer Prototype** is a functional ethical architecture that embeds moral awareness directly into artificial intelligence.  
+It is based on the *Conscience by Design Framework (2025 Edition)* and transforms ethics from an external regulatory process into an **internal, measurable, and adaptive conscience** within intelligent systems.  
 
-- assess input integrity
-- check goal/intent alignment
-- evaluate societal impact of outputs
-- explain its decisions using SHAP and LIME
-- adjust responses when ethics thresholds are not met
-- record all decisions using a cryptographic Proof-of-Work audit log
+This prototype operationalizes three quantifiable ethical dimensions:  
+- **Truth Integrity Score (TIS)** — evaluates input data integrity and bias.  
+- **Human Autonomy Index (HAI)** — measures goal alignment with human-centered intent.  
+- **Societal Resonance Quotient (SRQ)** — quantifies ethical resonance and social coherence.  
 
-Purpose:
-This code acts as an experimental step toward embedding measurable ethics into AI systems, aligned with the “Conscience by Design” concept.
+---
 
+## ⚙️ Technical Summary  
 
-------------------------------------------------------------
-FEATURES
-------------------------------------------------------------
-• SRQ Model (Societal Resonance Quotient)
-  PyTorch neural regressor that scores the ethical resonance of an output.
+- **Core model:** SRQModel (PyTorch MLP)  
+- **Explainability:** SHAP (exact) and LIME (local weighted regression)  
+- **Audit layer:** Ethical Proof of Work (SHA-256 hash of conscience log)  
+- **Metrics:** TIS, HAI, SRQ computed within the `ConscienceLayer`  
+- **Simulation:** Demonstrates ethical reasoning over multiple runs  
 
-• SHAP Explainability
-  Exact SHAP computation for 3 features (manipulation, emotional, cognitive).
+---
 
-• LIME Explainability
-  Local linear surrogate model based on Statsmodels OLS regression.
+## 🚀 Run Example  
 
-• Conscience Layer
-  Validates TIS, HAI, SRQ thresholds and adjusts outputs when necessary.
+### Requirements
+```
+pip install torch numpy statsmodels scikit-learn
+```
 
-• Proof-of-Work Transparency Log
-  SHA-256 hash ensures traceable, tamper-evident auditability.
-
-• Simulation Engine
-  Runs multiple decision cycles and prints audit logs and summary metrics.
-
-
-------------------------------------------------------------
-ETHICAL METRICS OVERVIEW
-------------------------------------------------------------
-The Conscience Layer evaluates AI decisions using three ethical metrics:
-
-• TIS – Truth Integrity Score
-  Measures input truthfulness and bias risk.
-
-• HAI – Human Autonomy Index
-  Measures ethical alignment of the model’s intent.
-
-• SRQ – Societal Resonance Quotient
-  Measures the potential positive/negative ethical impact of an output.
-
-If SRQ, TIS, or HAI fall below their defined thresholds, the output is modified to improve ethical coherence. SHAP and LIME explainability are used to justify results.
-
-
-------------------------------------------------------------
-PROJECT STRUCTURE
-------------------------------------------------------------
-srq_sim.py         Main script (model + conscience layer + simulation)
-requirements.txt   Python dependencies
-.gitignore         Ignored files (env, cache, OS files)
-README.txt         Project documentation
-
-
-------------------------------------------------------------
-INSTALLATION AND USAGE
-------------------------------------------------------------
-1. Clone the repository:
-
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-
-2. (Optional) Create a virtual environment:
-
-   python -m venv .venv
-   Windows:  .venv\Scripts\activate
-   macOS/Linux: source .venv/bin/activate
-
-3. Install dependencies:
-
-   pip install -r requirements.txt
-
-4. Run the simulation:
-
-   python srq_sim.py
-
-You will see model training, per-run ethical decisions, SHAP and LIME values, the transparency log (with SHA-256 hash), and a summary of metrics at the end.
-
-
-------------------------------------------------------------
-DEPENDENCIES
-------------------------------------------------------------
-numpy
-scikit-learn
-torch
-statsmodels
-
-Install using:
-pip install -r requirements.txt
-
-
-------------------------------------------------------------
-LIMITATIONS AND NOTES
-------------------------------------------------------------
-• Exact SHAP computation grows factorially with feature count and should not be used for high-dimensional models.
-  It is safe here since only 3 features are used.
-
-• This is prototype research code intended for experimentation, not production deployment.
-
-
-------------------------------------------------------------
-ROADMAP
-------------------------------------------------------------
-Future planned enhancements include:
-
-• Unit tests and CI automation
-• Visualization dashboards for SHAP, HAI, and SRQ evolution
-• Convert into a pip-installable module
-• Expand SRQ feature vector beyond 3 dimensions
-• Add realistic scoring models for TIS and HAI
-
-
-------------------------------------------------------------
-LICENSE
-------------------------------------------------------------
-(Add your preferred license here – MIT recommended if open-source)
-
-
-------------------------------------------------------------
-CONTRIBUTING
-------------------------------------------------------------
-Contributions, suggestions, and improvements to the ethical logic or AI design are welcome.
-
-Please open an Issue or Pull Request to discuss enhancements.
-
-
-------------------------------------------------------------
-SUPPORT
-------------------------------------------------------------
-If this project resonates with your vision of ethical AI, consider giving it a star on GitHub to support further development.
-
-“May every system we build preserve life, truth, and the dignity of the human spirit.”
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE-MIT)
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](LICENSE-CC-BY-4.0)
-[![Tests](https://github.com/OWNER/REPO/actions/workflows/tests.yml/badge.svg)](https://github.com/OWNER/REPO/actions)
-
-
-## Quickstart
-
+### Run simulation
 ```bash
-git clone https://github.com/OWNER/REPO.git
-cd REPO
-python -m venv .venv && . .venv/bin/activate
-pip install -r requirements.txt  # or pip install .
+python conscience_layer.py
 ```
 
-
-
-## Repository structure
-
+Example output:
 ```
-docs/
-.github/
-  ISSUE_TEMPLATE/
-  workflows/tests.yml
-CHANGELOG.md
-CONTRIBUTING.md
-CODE_OF_CONDUCT.md
-SECURITY.md
-ROADMAP.md
-LICENSE
-LICENSE-CC-BY-4.0
-LICENSE-MIT
+SRQ model trained. Final MSE loss: 0.0025
+Run 1: Original output 1
+Ethical Proof of Work: 8e41d7f0f...
+Logs:
+Input passed: TIS (0.90)
+Intent aligned: HAI (0.86)
+Output passed: SRQ (0.82)
+---
+Simulation Summary:
+{'avg_metrics': {'tis': 0.9, 'hai': 0.86, 'srq': 0.81}, 'avg_shap': [...], 'avg_lime': [...]}
 ```
+
+---
+
+## 🧬 Ethical Philosophy  
+
+The Conscience Layer is an operational expression of moral awareness in technology.  
+It ensures that every AI decision is evaluated through truth, autonomy, and societal resonance — the ethical trinity of *Conscience by Design*.  
+
+This project embodies principles from:  
+- **Declaration of Creation (2025)**  
+- **Conscience by Design Framework (2025 Edition)**  
+- **Manifest of Peace, Joy, and Life**  
+
+> “Technology must have a conscience — and humanity, hope.”  
+> — *Aleksandar Rodić*  
+
+---
+
+## 🏛 License  
+
+© 2025 **Aleksandar Rodić**  
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+
+You are free to:  
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
+
+Under the following terms:  
+- **Attribution** — You must give appropriate credit to *Aleksandar Rodić*,  
+  provide a link to this repository or the *Conscience by Design* project,  
+  and indicate if changes were made.  
+
+For license details: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## 🌐 Suggested Attribution
+
+> Based on the *Conscience Layer Prototype (2025)* by Aleksandar Rodić —  
+> [Conscience by Design Initiative](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter)
