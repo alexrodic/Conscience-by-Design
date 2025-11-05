@@ -1,12 +1,26 @@
 [build-system]
-requires=["setuptools>=61"]
-build-backend="setuptools.build_meta"
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
 [project]
-name="conscience_layer"
-version="0.1.0"
-description="Conscience Layer — Ethical Awareness Core (TIS/HAI/SRQ proxies + Policy Gate)"
-authors=[{name="Aleksandar Rodić"}]
-readme="README.md"
-requires-python=">=3.9"
-license={text="MIT"}
-dependencies=["numpy","torch","scipy","scikit-learn"]
+name = "conscience-layer-prototype"
+version = "0.1.0"
+description = "Prototype implementation of an ethical conscience layer with SRQ neural model, SHAP, and LIME explanations."
+authors = [
+    { name = "Your Name", email = "you@example.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy>=1.22",
+    "scikit-learn>=1.1",
+    "torch>=2.0",
+    "statsmodels>=0.13",
+]
+
+
+[project.scripts]
+conscience-layer = "conscience_layer_prototype:simulate_conscience_layer"
