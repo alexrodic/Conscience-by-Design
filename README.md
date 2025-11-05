@@ -2,40 +2,91 @@
 ### Embedding Ethical Awareness into Artificial Intelligence  
 
 **Author:** Aleksandar Rodić  
-Entrepreneur, Visionary, and Founder of the *Conscience by Design* Initiative  
+Founder of the *Conscience by Design* Initiative  
 
 ---
 
-## 🧩 Overview  
+## 🧭 Overview  
 
-The **Conscience Layer Prototype** is a functional ethical architecture that embeds moral awareness directly into artificial intelligence.  
-It is based on the *Conscience by Design Framework (2025 Edition)* and transforms ethics from an external regulatory process into an **internal, measurable, and adaptive conscience** within intelligent systems.  
+The **Conscience Layer Prototype** is part of the *Conscience by Design Framework* —  
+an open research project focused on **AI ethics**, **machine conscience**, and **value alignment**.  
 
-This prototype operationalizes three quantifiable ethical dimensions:  
-- **Truth Integrity Score (TIS)** — evaluates input data integrity and bias.  
-- **Human Autonomy Index (HAI)** — measures goal alignment with human-centered intent.  
-- **Societal Resonance Quotient (SRQ)** — quantifies ethical resonance and social coherence.  
+It explores how **ethical awareness** can be **embedded directly into artificial intelligence systems**  
+to ensure transparency, accountability, and human-centered alignment.  
 
----
+While the framework defines the **philosophical and structural foundations** of ethically aligned AI,  
+the prototype represents its **functional implementation**: a working model that transforms  
+moral reasoning into a measurable and computational process.  
 
-## ⚙️ Technical Summary  
-
-- **Core model:** SRQModel (PyTorch MLP)  
-- **Explainability:** SHAP (exact) and LIME (local weighted regression)  
-- **Audit layer:** Ethical Proof of Work (SHA-256 hash of conscience log)  
-- **Metrics:** TIS, HAI, SRQ computed within the `ConscienceLayer`  
-- **Simulation:** Demonstrates ethical reasoning over multiple runs  
+> Keywords: AI ethics, machine conscience, moral reasoning, ethical AI, AI alignment, AI transparency, interpretable AI, ethical framework, human-centered design, AI trustworthiness.
 
 ---
 
-## 🚀 Run Example  
+## ⚙️ How It Works  
 
-### Requirements
+The prototype implements a modular **ethical layer for AI systems** that evaluates every decision through three measurable dimensions:
+
+| Dimension | Description |
+|------------|-------------|
+| **Truth Integrity Score (TIS)** | Evaluates the integrity and bias of incoming data — ensuring AI truthfulness. |
+| **Human Autonomy Index (HAI)** | Measures how well system goals respect human freedom, intent, and dignity. |
+| **Societal Resonance Quotient (SRQ)** | Quantifies empathy, fairness, and social coherence in AI outputs. |
+
+Each process follows three ethical reasoning stages:  
+
+1. **Input Awareness (TIS):**  
+   Verifies data sources, bias, and context integrity before the model acts.  
+2. **Intent Mapping (HAI):**  
+   Compares AI intent with human values and moral constraints to ensure alignment.  
+3. **Ethical Feedback (SRQ):**  
+   Evaluates emotional, social, and cultural resonance of the output.  
+
+Every result is stored in a **cryptographically verifiable transparency log** —  
+an *Ethical Proof of Work* that provides explainable accountability for AI decisions.  
+
+> Related topics: ethical AI architecture, explainable AI (XAI), fairness metrics, responsible AI, moral cognition in machine learning.
+
+---
+
+## 🧠 Core Components  
+
+- **SRQModel (PyTorch MLP):**  
+  Neural model predicting *Societal Resonance Quotient (SRQ)* from ethical input features.  
+
+- **Explainability Layer:**  
+  Implements *SHAP* (exact or permutation) and *LIME* (local regression)  
+  for model interpretability and transparency audits.  
+
+- **ConscienceLayer Class:**  
+  The heart of the prototype — integrating TIS, HAI, SRQ metrics and maintaining  
+  an immutable ethical audit trail.  
+
+- **Simulation Environment:**  
+  Generates synthetic ethical decision data to test AI conscience performance  
+  across multiple iterations and seeds.
+
+---
+
+## 🧩 File Structure  
+
+```
+conscience-layer-prototype/
+├── conscience_layer.py        # Core implementation
+├── README.md                  # Documentation (this file)
+├── LICENSE.md                 # Dual License (CC BY 4.0 + MIT)
+└── .gitignore
+```
+
+---
+
+## 🚀 Running the Prototype  
+
+### Requirements  
 ```
 pip install torch numpy statsmodels scikit-learn
 ```
 
-### Run simulation
+### Run Simulation  
 ```bash
 python conscience_layer.py
 ```
@@ -44,7 +95,7 @@ Example output:
 ```
 SRQ model trained. Final MSE loss: 0.0025
 Run 1: Original output 1
-Ethical Proof of Work: 8e41d7f0f...
+Ethical Proof of Work: 9e2d17a4...
 Logs:
 Input passed: TIS (0.90)
 Intent aligned: HAI (0.86)
@@ -56,40 +107,53 @@ Simulation Summary:
 
 ---
 
-## 🧬 Ethical Philosophy  
+## 🧬 Philosophy  
 
-The Conscience Layer is an operational expression of moral awareness in technology.  
-It ensures that every AI decision is evaluated through truth, autonomy, and societal resonance — the ethical trinity of *Conscience by Design*.  
+The **Conscience by Design Framework** was created to align technological progress  
+with ethical intelligence and human values.  
 
-This project embodies principles from:  
-- **Declaration of Creation (2025)**  
-- **Conscience by Design Framework (2025 Edition)**  
-- **Manifest of Peace, Joy, and Life**  
+It argues that **responsible AI** cannot rely only on external regulation,  
+but must include an **internal moral architecture** — a conscience.  
 
-> “Technology must have a conscience — and humanity, hope.”  
-> — *Aleksandar Rodić*  
+The **Conscience Layer Prototype** demonstrates this principle in practice,  
+making ethical reflection a built-in process rather than a post-factum correction.  
+
+> “The true evolution of intelligence begins when technology learns to care.”  
+> — *Aleksandar Rodić, Conscience by Design (2025)*  
+
+> Related concepts: moral AI systems, digital ethics, AI self-regulation, human-AI coexistence, trust-by-design.
 
 ---
 
-## 🏛 License  
+## ⚖️ License  
+
+This repository is distributed under a **Dual License** model:
+
+- **Text, Framework, and Documentation:**  
+  [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+- **Source Code:**  
+  [MIT License](https://opensource.org/licenses/MIT)
 
 © 2025 **Aleksandar Rodić**  
-Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-
-You are free to:  
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
-
-Under the following terms:  
-- **Attribution** — You must give appropriate credit to *Aleksandar Rodić*,  
-  provide a link to this repository or the *Conscience by Design* project,  
-  and indicate if changes were made.  
-
-For license details: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Founder of *Conscience by Design*  
+[Declaration of Creation — Global Moral Charter](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter)
 
 ---
 
-## 🌐 Suggested Attribution
+## 🔎 SEO & Research Metadata  
 
-> Based on the *Conscience Layer Prototype (2025)* by Aleksandar Rodić —  
-> [Conscience by Design Initiative](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter)
+**Topics:**  
+AI ethics · machine conscience · explainable AI (XAI) · moral reasoning · AI alignment · algorithmic transparency · fairness · trustworthiness · human-centered design · ethical frameworks · responsible innovation  
+
+**Tags:**  
+`conscience-layer`, `conscience-by-design`, `ethical-ai`, `responsible-ai`, `ai-ethics-framework`, `ai-alignment`, `ai-transparency`, `ai-trust`, `moral-ai`, `ethical-machine-learning`, `value-aligned-ai`, `interpretable-ai`, `ai-safety`, `digital-ethics`, `moral-architecture`, `open-source-ethics`, `creative-commons-ai`
+
+---
+
+## 🤝 Contributing  
+
+Contributions, replications, and ethical experiments are welcome.  
+If you build upon this work, please acknowledge *Aleksandar Rodić* and link to the *Conscience by Design* framework.  
+
+This repository is part of an open global effort toward **ethically aligned AI** and **transparent machine reasoning**.  
