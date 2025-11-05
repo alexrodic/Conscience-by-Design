@@ -5,7 +5,7 @@ This log follows the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) fo
 
 ---
 
-## [2025-11-05] — Initial Release  
+## [2025-11-05]  Initial Release  
 
 ### Added  
 - Established the **dual-licensed open framework** combining  
@@ -17,11 +17,11 @@ This log follows the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) fo
 - Added first working module: `conscience_layer.py` (SRQ model, TIS/HAI/SRQ pipeline, ethical audit log).  
 
 ### Notes  
-This release marks the **official inception of the Conscience by Design initiative (2025)** —  
+This release marks the **official inception of the Conscience by Design initiative (2025)** -  
 a research and development framework authored by **Aleksandar Rodić**,  
 dedicated to embedding *ethical awareness, moral reasoning, and human alignment* into artificial intelligence.  
 
 ---
 
 *“The true evolution of intelligence begins when technology learns to care.”*  
-— *Aleksandar Rodić, Conscience by Design (2025)*
+- *Aleksandar Rodić, Conscience by Design (2025)*
