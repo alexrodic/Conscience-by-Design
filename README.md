@@ -147,6 +147,7 @@ Founder of *Conscience by Design*
 [Declaration of Creation — Global Moral Charter](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter)
 
 [Aleksandar Rodic](https://rs.linkedin.com/in/aleksandar-rodic-84a58484?trk=public_post_feed-actor-image)
+
 [Generation of Creation](https://www.linkedin.com/posts/aleksandar-rodic-84a58484_generationofcreation-humanpotential-ai-activity-7385679551277715456-HO8J?utm_source=share&utm_medium=member_desktop&rcm=ACoAABHh47oBCtCHuaF9Ta0Dx8_A7XsxEcK1Tww)
 
 ---
