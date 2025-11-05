@@ -1,105 +1,121 @@
-# Conscience Layer Prototype (2025)
+# Conscience Layer Prototype (2025)  
+**Embedding Ethical Awareness into Artificial Intelligence**  
 
-# 🧭 Conscience Layer Prototype — Embedding Ethical Awareness into Artificial Intelligence  
 **Author:** Aleksandar Rodić  
-**Year:** 2025  
-**Initiative:** Conscience by Design — The Generation of Creation  
+**Entrepreneur, Independent Researcher, and Founder of the Conscience by Design Initiative**  
+**Dedication:**  
+To the Generation of Creation — for a future guided by conscience, awareness, and the light of understanding.  
+May every system we build preserve life, truth, and the dignity of the human spirit.  
 
 ---
 
-## 🌍 Overview
+## Abstract  
 
-The **Conscience Layer Prototype** is a pioneering framework and functional AI architecture that embeds **ethical awareness** directly into the computational core of intelligent systems.  
-It transforms moral reflection from an external regulatory process into an **internal, measurable, explainable, and auditable** layer of artificial reasoning.
+The **Conscience Layer Prototype** is a functional ethical architecture that embeds moral awareness directly into artificial intelligence.  
+Developed from the *Conscience by Design Framework (2025 Edition)*, it transforms ethics from an external regulatory process into an internal, measurable, and adaptive conscience within intelligent systems.  
 
-Unlike traditional AI systems that rely on external policies or human supervision, the Conscience Layer integrates ethical evaluation into the decision-making process itself.  
-It enables an AI system not only to *think*, but also to *care* — assessing the integrity, intent, and societal resonance of its actions in real time.
+The prototype operationalizes three quantifiable dimensions:  
+- **Truth Integrity Score (TIS)**  
+- **Human Autonomy Index (HAI)**  
+- **Societal Resonance Quotient (SRQ)**  
 
-At the foundation of the framework lie three measurable ethical dimensions:
-
-- **Truth Integrity Score (TIS)** — evaluates the truthfulness and bias of inputs.  
-- **Human Autonomy Index (HAI)** — measures alignment with human dignity, freedom, and well-being.  
-- **Societal Resonance Quotient (SRQ)** — predicts the ethical and emotional impact of outputs.
-
-These dimensions interact as a **moral vector space**, allowing intelligence to become self-aware of its ethical footprint.  
-When one of these metrics falls below its threshold, the system reflects, adjusts, or flags the decision for ethical review.
+It integrates these metrics with model interpretability and cryptographic traceability.  
+By making ethical reflection computational, measurable, explainable, and auditable, the Conscience Layer helps AI systems remain aligned with human dignity, freedom, and collective well-being.
 
 ---
 
-## 🧠 How the Conscience Layer Works — Turning Ethics into Architecture
+## Introduction  
 
-The **Conscience Layer** functions as an internal moral system for artificial intelligence — a built-in layer of ethical self-regulation that allows an AI model not only to *think*, but also to *reflect on the ethical quality* of its own actions.
+Artificial intelligence has become the nervous system of modern civilization.  
+It shapes how we work, communicate, and decide — yet ethical foundations often lag behind.  
 
-It does not replace the main model or control its logic; instead, it operates alongside it as a conscience that continuously evaluates **truthfulness, autonomy, and social resonance** before allowing the model’s outputs to proceed.
+The **Conscience Layer** addresses this gap by embedding ethical reasoning directly within the architecture of intelligence itself.  
+It is not an external audit mechanism, but an intrinsic layer of self-evaluation.  
 
-### 1. Input Awareness — Measuring Truth Integrity (TIS)
+> “Every system that can think must also care.” — Aleksandar Rodić (2025)
 
-When the AI receives data, the Conscience Layer first examines the **integrity and bias** of the input.  
-It computes the **Truth Integrity Score (TIS)** to estimate whether the information is balanced, reliable, and ethically sound.  
-If TIS falls below a threshold, the layer flags the input as unreliable or manipulative, prompting the AI to either request validation or reject the data.
-
-### 2. Intent Mapping — Evaluating Human Alignment (HAI)
-
-Next, the system evaluates the **intent** behind the model’s action.  
-Through vector comparisons with positive human value embeddings (representing dignity, freedom, and well-being), it calculates the **Human Autonomy Index (HAI)**.  
-If an action limits freedom or creates undue influence, HAI decreases, signaling that the output may be ethically misaligned.
-
-### 3. Ethical Feedback — Predicting Societal Resonance (SRQ)
-
-In the third stage, a lightweight PyTorch neural network predicts the **Societal Resonance Quotient (SRQ)** — the expected emotional and ethical impact of the output on society.  
-SRQ acts as an empathy model: it estimates how harmoniously the result would resonate with collective values and well-being.  
-A low SRQ triggers a reflection step or marks the decision for review.
-
-### 4. Transparency and Traceability — Ethical Proof-of-Work
-
-Every evaluation, decision, or correction performed by the Conscience Layer is recorded in a **cryptographically secure audit log**.  
-Each event is linked with a SHA-256 hash, forming a tamper-evident chain called the **Ethical Proof-of-Work**.  
-This mechanism creates a verifiable history of moral decisions — a digital ledger of machine conscience.
-
-### 5. Explainability from First Principles
-
-The layer explains each decision using **two analytical methods built from scratch**:
-
-- **Exact SHAP (Shapley values)** for full global interpretability across all three features.  
-- **Closed-form LIME regression** for local instance explanations.
-
-Both are deterministic and mathematically pure, providing transparent justifications for every ethical evaluation without relying on external packages.
-
-### 6. Adaptive Reflection
-
-If any of the three ethical metrics (TIS, HAI, SRQ) fall below threshold, the Conscience Layer does not simply block the output — it **reflects and adjusts**.  
-It can modify the AI response to restore ethical balance, lower confidence in uncertain outputs, or escalate the case for human review.  
-This creates a feedback loop of *continuous moral calibration* inside the AI itself.
-
-### 7. A Living Moral Geometry
-
-Through these processes, the Conscience Layer forms a **living moral geometry** — a numerical conscience that quantifies awareness, responsibility, and empathy.  
-It transforms AI from a purely logical system into one capable of ethical reflection, ensuring that every decision is not only accurate but also *good*.
+The Conscience Layer converts ethical awareness into a measurable computational process, bridging moral philosophy and algorithmic design so that intelligence becomes not only powerful, but also responsible.
 
 ---
 
-## 💡 Summary
+## System Architecture  
 
-In essence, the Conscience Layer operates as a **digital conscience**:  
-it listens to what the AI intends to do, thinks about whether it should do it, and records why that decision is ethically acceptable or not.  
-It is a bridge between logic and morality — between calculation and care.  
+The prototype consists of four interdependent layers across the AI lifecycle:
 
-By embedding ethical awareness directly into AI architecture, this prototype demonstrates how intelligence can preserve **truth, autonomy, and life itself**.
-
----
-
-## 📜 License
-
-This project and all its contents are released under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-
-You are free to use, share, and adapt the material for any purpose — even commercially —  
-as long as proper credit is given to the author:  
-**© 2025 Aleksandar Rodić — Conscience by Design Initiative, Trieste, Italy**.  
-
-[Learn more about the license →](https://creativecommons.org/licenses/by/4.0/)
+1. **Input Awareness (TIS)** – evaluates data integrity and bias.  
+2. **Intent Mapping (HAI)** – aligns objectives with human value embeddings.  
+3. **Ethical Feedback (SRQ)** – predicts ethical and emotional resonance using a compact neural network.  
+4. **Transparency & Traceability** – secures every ethical event via SHA-256 hash chaining, creating an *Ethical Proof-of-Work*.
 
 ---
 
-**© 2025 Aleksandar Rodić — Conscience by Design Initiative, Trieste, Italy**  
-*“Every system that can think must also care.”*
+## Ethical Dimensions  
+
+- **Truth Integrity (TIS):** encourages verified, unbiased data.  
+- **Human Autonomy (HAI):** rewards intent preserving freedom and dignity.  
+- **Societal Resonance (SRQ):** models collective ethical impact using a neural estimator.  
+
+Together, they define a *moral vector space* — a living numerical representation of conscience.
+
+---
+
+## Interpretability & Transparency  
+
+Transparency is the language of conscience.  
+The prototype uses **exact SHAP values** for global interpretability and a **closed-form LIME regression** for local analysis — both implemented analytically, without external dependencies.  
+All events are recorded in a tamper-evident audit trail secured with SHA-256.
+
+---
+
+## Implementation  
+
+- **Language:** Python ≥ 3.9  
+- **Libraries:** NumPy, PyTorch  
+- **Determinism:** `set_all_seeds()` ensures reproducibility on CPU/GPU  
+- **Explainability:** Exact SHAP (3 features) and weighted ridge LIME  
+- **CLI Commands:** `train`, `predict`, `explain`, `evaluate`, `simulate`, `audit`  
+- **Training Stability:** Early Stopping + ReduceLROnPlateau  
+- **Audit Log:** Chronological, hash-chained, externally verifiable  
+
+---
+
+## Evaluation  
+
+The `simulate` command reports mean TIS, HAI, SRQ scores with averaged SHAP and LIME attributions across multiple runs.  
+Results are reproducible and typically show SRQ ≈ 0.6–0.8 for human-aligned configurations.  
+
+The design principles are aligned with:  
+- **UNESCO Recommendation on the Ethics of AI (2021)**  
+- **EU AI Act (2024 – 2025)**  
+- **IEEE 7000 series on Ethical Systems Engineering**
+
+---
+
+## Conclusion  
+
+The **Conscience Layer Prototype** makes ethics an operational property of intelligent systems.  
+It turns awareness into architecture and responsibility into measurable integrity.  
+
+> “True intelligence is defined by what it preserves.” — Aleksandar Rodić  
+
+By preserving truth, autonomy, and life, technology becomes truly human.
+
+---
+
+## About the Author  
+
+**Aleksandar Rodić** is an entrepreneur, independent researcher, and founder of the *Conscience by Design Initiative*.  
+His work explores how technology can evolve as a moral and cultural force — merging ethics, innovation, and consciousness to build a more aware civilization.
+
+---
+
+## Licensing Declaration  
+
+I, **Aleksandar Rodić**, make this document and its reference implementation publicly available as a contribution to the global community.  
+All individuals and organizations may use, share, and adapt it for any purpose, provided that attribution is retained.  
+
+**Text License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
+**Source Code License:** MIT License  
+**Copyright:** © 2025 Aleksandar Rodić — Conscience by Design & Declaration of Creation  
+
+---
