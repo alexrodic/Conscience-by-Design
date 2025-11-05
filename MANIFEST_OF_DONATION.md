@@ -37,3 +37,12 @@ ___________________________
 Aleksandar Rodić
 Founder, Conscience by Design Initiative
 Belgrade / Istria, 2025
+
+
+---
+
+### Citation
+
+**Rodić, Aleksandar (2025).** *Conscience by Design: The Ethical Awareness Core for Artificial Intelligence.*  
+GitHub Repository: [https://github.com/alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design)  
+License: CC BY 4.0 (Text), MIT (Source Code)
