@@ -1,4 +1,6 @@
-# Conscience by Design — Framework (2025)
+# Generation of Creation translating its moral and humanistic principles into operational standards for technology, governance and education.
+
+ 
 
 CONSCIENCE BY DESIGN: A FRAMEWORK FOR ETHICALLY ALIGNED TECHNOLOGY
 
@@ -171,3 +173,19 @@ Developed as part of the Generation of Creation Initiative a global movement ded
 Author:
 Aleksandar Rodić
 Entrepreneur, Strategist & Founder of the Generation of Creation Initiative
+
+© 2025 Aleksandar Rodić — Conscience by Design & Declaration of Creation.
+
+Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Public Index Card — Declaration of Creation Archive (v1.0)
+
+© 2025 Aleksandar Rodić — Founder of the Conscience by Design Initiative and Author of the Declaration of Creation.
+
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Texts: Declaration of Creation, Conscience by Design, Conscience Layer Prototype, Generation of Creation Manifest.
+
+Purpose: Open, educational, and ethical use worldwide.
+
+Verified global reference: Conscience-Archive-AleksandarRodic-2025-v1.0
