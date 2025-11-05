@@ -1,4 +1,4 @@
-Conscience Layer — Ethical Awareness Core
+Conscience Layer - Ethical Awareness Core
 Aleksandar Rodić (2025)
 
 Original concept, architecture, and implementation authored by Aleksandar Rodić.
@@ -8,7 +8,7 @@ This work defines the first operational model of embedded ethical awareness with
 
 All derivative works, publications, or deployments must include the following acknowledgment:
 
-“Conscience Layer — ethical awareness core, original concept and authorship by Aleksandar Rodić (2025).”
+“Conscience Layer - ethical awareness core, original concept and authorship by Aleksandar Rodić (2025).”
 
 
 ---
