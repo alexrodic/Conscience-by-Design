@@ -1,7 +1,5 @@
 Generation of Creation translating its moral and humanistic principles into operational standards for technology, governance and education.
 
- 
-
 # CONSCIENCE BY DESIGN: A FRAMEWORK FOR ETHICALLY ALIGNED TECHNOLOGY
 
 Executive Summary
@@ -30,7 +28,7 @@ Ethical technology arises from plural perspectives. Multidisciplinary, multicult
 
 Pillar 1: Structural Design Protocols
 Develop technical and institutional architectures that embed ethical review within system design.
-Introduce ethical checkpoints during each major phase of development—data collection, model training, deployment, and iteration.
+Introduce ethical checkpoints during each major phase of development-data collection, model training, deployment, and iteration.
 Adopt value-aligned engineering standards that incorporate human rights, safety, and sustainability indicators into technical KPIs.
 Establish independent audit mechanisms to ensure algorithmic fairness, environmental responsibility, and compliance with international standards like the EU AI Act.
 Integrate emerging tech governance for quantum and neuro-interfaces, with specialized modules for empathy safeguards.
@@ -39,7 +37,7 @@ Pillar 2: Cultural Integration
 Sustain conscience not by regulation alone, but by cultivating ethical culture within organizations.
 Implement ethical literacy programs for engineers, managers, and policymakers.
 Create institutional incentives that recognize ethical excellence as a form of innovation.
-Promote narrative responsibility the way technology is described, marketed, and imagined—as a determinant of its moral impact.
+Promote narrative responsibility the way technology is described, marketed, and imagined-as a determinant of its moral impact.
 Establish a Code of Conscience Movement for global certification of ethical projects, with open-source tools for community-driven evaluation.
 
 Pillar 3: Educational Transformation
@@ -109,7 +107,7 @@ Neutrality Check: Each module undergoes automated text analysis and human review
 Firewall of Intent – Technical Protection
 Conscience layers are open-source but with an immutable hash (SHA-3) on each version.
 Any modification, even by authors, triggers a global alert via a decentralized blockchain registry.
-No organization can quietly insert a political or profit filter—changes are visible to all in real time.
+No organization can quietly insert a political or profit filter-changes are visible to all in real time.
 
 Anti-Capture Clause – Legal Protection
 Conscience by Design is registered as a global public commons under Creative Commons CC0 plus Anti-Capture License (new legal instrument, 2025).
@@ -144,7 +142,7 @@ Every open-source conscience layer repository (README.md)
 
 Implementation begins: January 1, 2026.
 First pilot: Open-source “Neutrality Firewall” on GitHub (available for testing).
-Now, Conscience by Design is physically and legally impossible to abuse—because it is protected from itself.
+Now, Conscience by Design is physically and legally impossible to abuse-because it is protected from itself.
 
 8. Anticipated Challenges and Mitigations
 
@@ -160,7 +158,7 @@ The next frontier of civilization will not be defined by how advanced our techno
 
 When awareness matches invention, humanity regains control of its own creation.
 
-Appendix — Key Recommendations
+Appendix - Key Recommendations
 
 Integrate ethical audits at every critical phase of system development.
 Establish global standards linking technological KPIs with social-impact indicators.
@@ -174,13 +172,13 @@ Author:
 Aleksandar Rodić
 Entrepreneur, Strategist & Founder of the Generation of Creation Initiative
 
-© 2025 Aleksandar Rodić — Conscience by Design & Declaration of Creation.
+© 2025 Aleksandar Rodić - Conscience by Design & Declaration of Creation.
 
 Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Public Index Card — Declaration of Creation Archive (v1.0)
+Public Index Card - Declaration of Creation Archive (v1.0)
 
-© 2025 Aleksandar Rodić — Founder of the Conscience by Design Initiative and Author of the Declaration of Creation.
+© 2025 Aleksandar Rodić - Founder of the Conscience by Design Initiative and Author of the Declaration of Creation.
 
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
