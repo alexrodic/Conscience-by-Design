@@ -1,3 +1,6 @@
+> This repository is officially donated to humanity as the moral awareness core for future artificial intelligence systems.
+
+
 # CONSCIENCE BY DESIGN — MANIFEST OF DONATION
 © 2025 Aleksandar Rodić
 
