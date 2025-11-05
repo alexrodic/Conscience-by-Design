@@ -1,3 +1,10 @@
+<!--
+Meta description:
+Embedding ethical awareness into artificial intelligence through the Conscience Layer Prototype (2025) — a framework for measurable moral reasoning, transparency, and human-aligned AI.
+Keywords:
+ethical ai, conscience layer, conscience by design, ai ethics, ai alignment, moral reasoning, responsible ai, transparency, explainable ai, human centered ai, alexandar rodic
+-->
+
 # Conscience Layer Prototype — 2025 Edition  
 ### Embedding Ethical Awareness into Artificial Intelligence  
 
