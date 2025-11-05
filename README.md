@@ -146,6 +146,8 @@ This repository is distributed under a **Dual License** model:
 Founder of *Conscience by Design*  
 [Declaration of Creation — Global Moral Charter](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter)
 
+[Linkedind:](https://rs.linkedin.com/in/aleksandar-rodic-84a58484?trk=public_post_feed-actor-image)
+
 ---
 
 ## 🔎 SEO & Research Metadata  
