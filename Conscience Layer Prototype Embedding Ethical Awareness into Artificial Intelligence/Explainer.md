@@ -1,6 +1,6 @@
 EXPLAINER
 
-Title: Conscience Layer Prototype Embedding Ethical Awareness into Artificial Intelligence
+# Title: Conscience Layer Prototype Embedding Ethical Awareness into Artificial Intelligence
 Author: Aleksandar Rodić
 Initiative: Conscience by Design 2025
 
