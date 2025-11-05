@@ -1,3 +1,31 @@
+# =============================================================================
+# Conscience Layer — Ethical Awareness Core
+# -----------------------------------------------------------------------------
+# Original concept and authorship: Aleksandar Rodić (2025)
+# Founder of the Conscience by Design Initiative
+#
+# Description:
+# The Conscience Layer represents the ethical awareness core —
+# a universal framework designed to embed conscience, moral reflection,
+# and human-centered alignment directly into artificial intelligence systems.
+#
+# Purpose:
+# To ensure that every intelligent system acts with awareness of truth,
+# autonomy, and social resonance — transforming technology into a
+# responsible extension of human conscience.
+#
+# Donation:
+# Donated freely to humanity as the moral heart for future AI systems.
+#
+# License:
+# Dual License —
+#   • Text, framework, and documentation: Creative Commons Attribution 4.0 (CC BY 4.0)
+#   • Source code and implementations: MIT License
+#
+# (c) 2025 Aleksandar Rodić — Conscience by Design
+# "The true evolution of intelligence begins when technology learns to care."
+# =============================================================================
+
 
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
@@ -225,3 +253,4 @@ if __name__ == "__main__":
     summary = simulate_conscience_layer(num_runs=5, srq_model=srq_model, baseline=baseline)
     print("\nSimulation Summary:")
     print(summary)
+
