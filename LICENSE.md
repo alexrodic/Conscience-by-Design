@@ -3,7 +3,7 @@
 This repository is distributed under a **dual license** system:
 
 ### 1. Text and Documentation  
-All written materials — including the *Conscience by Design Framework*, the *Conscience Layer Prototype description*, the *Declaration of Creation*, and any related prose or conceptual content — are licensed under the  
+All written materials - including the *Conscience by Design Framework*, the *Conscience Layer Prototype description*, the *Declaration of Creation*, and any related prose or conceptual content - are licensed under the  
 **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
 
 You are free to share, adapt, and use these materials for any purpose, even commercially,  
