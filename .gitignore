@@ -1,0 +1,19 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.build/
+.dist/
+.venv/
+venv/
+.env
+
+# Editors
+.vscode/
+.idea/
