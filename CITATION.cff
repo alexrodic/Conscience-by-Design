@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Conscience by Design — Conscience Layer Prototype (2025)"
+authors:
+  - family-names: "Rodić"
+    given-names: "Aleksandar"
+    affiliation: "Conscience by Design Initiative"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >
+  The Conscience Layer Prototype (2025) is an ethical AI architecture developed within 
+  the Conscience by Design Framework. It operationalizes measurable moral reasoning in 
+  artificial intelligence through three dimensions: Truth Integrity Score (TIS), Human 
+  Autonomy Index (HAI), and Societal Resonance Quotient (SRQ). The system integrates 
+  explainability methods (SHAP, LIME) and an auditable transparency mechanism known as 
+  the Ethical Proof of Work. Authored and open-sourced by Aleksandar Rodić, it represents 
+  a foundational contribution toward human-aligned, transparent, and morally aware AI.
+version: "1.0.0"
+date-released: "2025-11-05"
+doi: "10.5281/zenodo.xxxxxxx"
+repository-code: "https://github.com/alexrodic/Conscience-by-Design"
+license: "CC-BY-4.0 / MIT"
+keywords:
+  - ethical AI
+  - conscience layer
+  - AI ethics
+  - moral reasoning
+  - transparency
+  - explainable AI
+  - AI alignment
+  - human-centered AI
+  - Aleksandar Rodic
