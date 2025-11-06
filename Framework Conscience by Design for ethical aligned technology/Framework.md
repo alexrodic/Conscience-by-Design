@@ -135,11 +135,6 @@ No state or corporation can hold more than 5% of votes.
 Key Statement (Mandatory in every Conscience by Design document):
 “Conscience by Design is not owned by any ideology, faith, state, or profit. It is humanity’s common good protected from abuse by design.”
 
-This addendum is automatically inserted into:
-International Tech Ethics Codex (Article 1.1)
-Code of Conscience Oath (Point 0)
-Every open-source conscience layer repository (README.md)
-
 Implementation begins: January 1, 2026.
 First pilot: Open-source “Neutrality Firewall” on GitHub (available for testing).
 Now, Conscience by Design is physically and legally impossible to abuse-because it is protected from itself.
