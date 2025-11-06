@@ -27,7 +27,7 @@ moral reasoning into a measurable and computational process.
 
 > Keywords: AI ethics, machine conscience, moral reasoning, ethical AI, AI alignment, AI transparency, interpretable AI, ethical framework, human-centered design, AI trustworthiness.
 
-![Conscience Layer Diagram](https://github.com/alexrodic/Conscience-by-Design/blob/main/preview.jpg?raw=true)
+![Conscience Layer Diagram](https://github.com/alexrodic/Conscience-by-Design/blob/main/preview2.png?raw=true)
 
 ---
 
