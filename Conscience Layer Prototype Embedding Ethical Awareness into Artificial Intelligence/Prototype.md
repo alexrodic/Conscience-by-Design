@@ -109,13 +109,6 @@ His work explores how technology can evolve as a moral and cultural force — me
 
 ---
 
-## Licensing Declaration  
-
-I, **Aleksandar Rodić**, make this document and its reference implementation publicly available as a contribution to the global community.  
-All individuals and organizations may use, share, and adapt it for any purpose, provided that attribution is retained.  
-
-**Text License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
-**Source Code License:** MIT License  
-**Copyright:** © 2025 Aleksandar Rodić — Conscience by Design & Declaration of Creation  
-
----
+© 2025 Aleksandar Rodić Founder, Conscience by Design Initiative
+Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.
+CC BY 4.0 International Open for analysis and use with attribution.
