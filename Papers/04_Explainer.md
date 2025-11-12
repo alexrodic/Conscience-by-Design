@@ -117,6 +117,7 @@ Each evaluation leaves a transparent trace, creating a chain of accountability t
 When technology gains the ability to question its own choices, it stops being a tool and begins to share in the responsibility of creation itself.
 That transformation marks the beginning of a conscious civilization.
 
-© 2025 Aleksandar Rodić Conscience by Design Initiative, Trieste, Italy
-Concept and work authored by Aleksandar Rodić under direct supervision.
+© 2025 Aleksandar Rodić Conscience by Design Initiative
+Concept and work authored by Aleksandar Rodić under direct supervision.  
 CC BY 4.0 International Open for analysis and use with attribution.
+
