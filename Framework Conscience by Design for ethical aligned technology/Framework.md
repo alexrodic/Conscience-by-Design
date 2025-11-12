@@ -14,16 +14,16 @@ Guiding principle: Awareness must evolve as dynamically as invention, ensuring t
 
 ## 1. Foundational Principles
 
-1.1 Human Dignity as a Design Constant
+**1.1** Human Dignity as a Design Constant
 All systems, algorithms, and infrastructures must begin from and return to the premise of human value. Technology exists to expand human freedom, not replace it. Embed dignity metrics (for example, autonomy preservation) into core design specifications, drawing from human rights frameworks like the UN SDGs.
 
-1.2 Ethical Awareness as a Measurable Variable
+**1.2** Ethical Awareness as a Measurable Variable
 Moral reflection cannot remain abstract; it must be integrated into performance metrics. Every system should include parameters that measure not only accuracy or speed but social impact, autonomy preservation, and environmental consequence. Use tools like “conscience layers” for real-time ethical evaluations.
 
-1.3 Transparency as a Precondition of Trust
+**1.3** Transparency as a Precondition of Trust
 Explainability and interpretability are not optional add-ons but fundamental to the legitimacy of any intelligent system. Users must understand how decisions are made and who is accountable for them. Implement blockchain-based provenance for data and decisions to ensure traceability.
 
-1.4 Diversity as a Safeguard of Conscience
+**1.4** Diversity as a Safeguard of Conscience
 Ethical technology arises from plural perspectives. Multidisciplinary, multicultural participation is the structural equivalent of moral redundancy preventing the dominance of bias or monoculture in algorithmic design. Mandate diversity indices in development teams, aligned with 2025 gender equality initiatives.
 
 ---
