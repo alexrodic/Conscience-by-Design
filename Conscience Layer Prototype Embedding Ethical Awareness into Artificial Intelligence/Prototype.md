@@ -105,7 +105,6 @@ By preserving truth, autonomy, and life, technology becomes truly human.
 ## About the Author  
 
 **Aleksandar Rodić** is an entrepreneur, independent researcher, and founder of the *Conscience by Design Initiative*.  
-His work explores how technology can evolve as a moral and cultural force - merging ethics, innovation, and consciousness to build a more aware civilization.
 
 ---
 
