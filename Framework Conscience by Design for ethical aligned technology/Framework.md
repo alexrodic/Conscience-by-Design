@@ -10,7 +10,9 @@ Its core premise is simple: every system we build should preserve the integrity,
 
 Guiding principle: Awareness must evolve as dynamically as invention, ensuring technology amplifies humanity without exploitation.
 
-1. Foundational Principles
+---
+
+## 1. Foundational Principles
 
 1.1 Human Dignity as a Design Constant
 All systems, algorithms, and infrastructures must begin from and return to the premise of human value. Technology exists to expand human freedom, not replace it. Embed dignity metrics (for example, autonomy preservation) into core design specifications, drawing from human rights frameworks like the UN SDGs.
@@ -24,7 +26,9 @@ Explainability and interpretability are not optional add-ons but fundamental to 
 1.4 Diversity as a Safeguard of Conscience
 Ethical technology arises from plural perspectives. Multidisciplinary, multicultural participation is the structural equivalent of moral redundancy preventing the dominance of bias or monoculture in algorithmic design. Mandate diversity indices in development teams, aligned with 2025 gender equality initiatives.
 
-2. Structural Pillars
+---
+
+## 2. Structural Pillars
 
 Pillar 1: Structural Design Protocols
 Develop technical and institutional architectures that embed ethical review within system design.
@@ -61,7 +65,9 @@ Design adaptive moral systems capable of evolving through public dialogue, empir
 Institutionalize intergenerational stewardship to assess long-term social, ecological, and psychological consequences.
 Launch a Global Conscience Index ranking entities on ethical metrics, complementing UN indices.
 
-3. Implementation Principles
+---
+
+## 3. Implementation Principles
 
 Public Institutions: Adopt national standards for ethical innovation, ensuring technology serves citizens and social well-being. Pilot ethical audits in sectors like healthcare and finance.
 
@@ -73,13 +79,17 @@ Civil Society Organizations: Develop citizen data rights platforms to empower in
 
 Global Cooperation: Move toward a multilateral ethical accord that harmonizes digital governance and human responsibility, with adaptable modules for regional sovereignty.
 
-4. Implementation Roadmap
+---
+
+## 4. Implementation Roadmap
 
 Short-Term (1–2 years): Pilot conscience layers and audits; integrate diversity platforms; gather global feedback. Outcomes: Data on equity and trust; refined tools.
 Medium-Term (3–5 years): Legislate Ethical Impact Statements; institutionalize oaths and labs. Outcomes: Mainstreamed ethical governance.
 Long-Term (5+ years): Embed in ESG; launch Index and Codex; normalize adaptive ethics. Outcomes: Systemic moral evolution.
 
-5. Sample KPIs
+---
+
+## 5. Sample KPIs
 
 Accountability: Percentage of systems with ethical audits – target 85% by 2030.
 Transparency: Percentage of algorithms with traceable provenance – target 70%.
@@ -88,7 +98,9 @@ Sustainability: Energy reduction in AI (gCO₂/tx) – target −30%.
 Ethics Literacy: Percentage of workforce trained – target 90%.
 Emerging Tech: Percentage of systems with adaptive modules – target 60%.
 
-6. Governance and Enforcement Mechanisms
+---
+
+## 6. Governance and Enforcement Mechanisms
 
 Tech Ethics Codex: Global treaty with minimum standards and regional adaptations.
 AI & Conscience Councils: Hybrid bodies with diverse stakeholders for nuanced interpretation.
@@ -96,7 +108,9 @@ AI-based Oversight: Machine ethics for real-time detection, with human oversight
 ESG Integration: Make ethical integrity a core indicator.
 Pilot Testing: Open-source collaborations for iterative refinement.
 
-7. Neutrality by Design – Cornerstone Protection Against Abuse
+---
+
+## 7. Neutrality by Design – Cornerstone Protection Against Abuse
 
 No one, no state, corporation, ideology, faith, or profit interest shall ever exploit Conscience by Design as a tool for control, censorship, discrimination, or commercial dominance.
 
@@ -139,7 +153,9 @@ Implementation begins: January 1, 2026.
 First pilot: Open-source “Neutrality Firewall” on GitHub (available for testing).
 Now, Conscience by Design is physically and legally impossible to abuse-because it is protected from itself.
 
-8. Anticipated Challenges and Mitigations
+---
+
+## 8. Anticipated Challenges and Mitigations
 
 Profit Resistance – Demonstrate market benefits such as increased trust and investment; offer pilot incentives.
 Global Disparities – Use regional adaptations and inclusive feedback loops with underrepresented groups.
@@ -147,7 +163,9 @@ Enforcement Complexity – Combine automated tools and human boards; begin with 
 Ethical Fatigue – Use gamified engagement and balance with innovation rewards.
 Innovation Stifling – Maintain flexible frameworks allowing calculated risks, informed by 2025 AI trends.
 
-Conclusion
+---
+
+## Conclusion
 
 The next frontier of civilization will not be defined by how advanced our technologies become, but by how deeply they embody moral intelligence. Conscience by Design is not a limitation it is an evolution of design itself: from systems that react, to systems that reflect.
 
@@ -163,22 +181,13 @@ Treat transparency, inclusivity, and sustainability as non-negotiable design con
 
 Developed as part of the Generation of Creation Initiative a global movement dedicated to uniting conscience, creativity, and technological innovation into a new moral architecture for civilization.
 
-Author:
-Aleksandar Rodić
-Entrepreneur, Strategist & Founder of the Generation of Creation Initiative
+---
 
-© 2025 Aleksandar Rodić - Conscience by Design & Declaration of Creation.
+## Author:
+**Aleksandar Rodić** is an entrepreneur, independent researcher, and founder of the *Conscience by Design Initiative*.  
 
-Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
+---
 
-Public Index Card - Declaration of Creation Archive (v1.0)
-
-© 2025 Aleksandar Rodić - Founder of the Conscience by Design Initiative and Author of the Declaration of Creation.
-
-Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-Texts: Declaration of Creation, Conscience by Design, Conscience Layer Prototype, Generation of Creation Manifest.
-
-Purpose: Open, educational, and ethical use worldwide.
-
-Verified global reference: Conscience-Archive-AleksandarRodic-2025-v1.0
+© 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
+Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
+CC BY 4.0 International Open for analysis and use with attribution.  
