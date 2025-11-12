@@ -19,7 +19,7 @@ The General Assembly,
 
 Recognizing the unprecedented transformation of civilization brought about by artificial intelligence, digital interconnectivity, and planetary interdependence. Acknowledging the fragility of Earth’s ecosystems and the moral responsibility of humanity to preserve the balance of life. Recalling the principles enshrined in the Charter of the United Nations, the Universal Declaration of Human Rights (1948), the Earth Charter (2000), and the UNESCO Recommendation on the Ethics of Artificial Intelligence (2021). Affirming that technological and economic advancement must serve the dignity, awareness, and creative potential of the human being. Determined to establish a new moral and social order an Economy of Creation grounded in conscience, cooperation, and the creative dignity of all life. Proclaims this Declaration of Creation as a universal moral charter for the era of human–AI coexistence and planetary consciousness.
 
-## SECTION I   FOUNDATIONAL PRINCIPLES
+## **SECTION I**   FOUNDATIONAL PRINCIPLES
 
 1. Sovereignty of Life
 Reaffirms that life in all its forms constitutes the highest value and primary law of existence; that no system, government, or technology may violate or diminish the sanctity of life for the sake of power, profit, or expedience.
@@ -120,3 +120,4 @@ Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 Texts: Declaration of Creation, Conscience by Design, Conscience Layer Prototype, Generation of Creation Manifest.
 
 Purpose: Open, educational, and ethical use worldwide.
+
