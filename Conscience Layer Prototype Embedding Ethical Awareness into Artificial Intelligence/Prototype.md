@@ -82,11 +82,11 @@ All events are recorded in a tamper-evident audit trail secured with SHA-256.
 ## Evaluation  
 
 The `simulate` command reports mean TIS, HAI, SRQ scores with averaged SHAP and LIME attributions across multiple runs.  
-Results are reproducible and typically show SRQ ≈ 0.6–0.8 for human-aligned configurations.  
+Results are reproducible and typically show SRQ ≈ 0.6-0.8 for human-aligned configurations.  
 
 The design principles are aligned with:  
 - **UNESCO Recommendation on the Ethics of AI (2021)**  
-- **EU AI Act (2024 – 2025)**  
+- **EU AI Act (2024 - 2025)**  
 - **IEEE 7000 series on Ethical Systems Engineering**
 
 ---
