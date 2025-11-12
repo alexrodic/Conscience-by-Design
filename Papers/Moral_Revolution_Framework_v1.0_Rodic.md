@@ -1,4 +1,4 @@
-## From Declarative Ethics to Operational Conscience: A Three-Tier Framework for Applicable Moral Revolution
+### From Declarative Ethics to Operational Conscience: A Three-Tier Framework for Applicable Moral Revolution
 
 Aleksandar Rodić
 Founder, Conscience by Design Initiative
@@ -8,11 +8,15 @@ Belgrade, Serbia
 Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.
 CC BY 4.0 International Open for analysis and use with attribution.
 
-Abstract
+---
+
+## Abstract
 
 This paper presents a comprehensive three-tier framework for operationalizing moral principles in technological system design: Declaration as a set of foundational axioms, Framework as operational principles and procedures, and Prototype as technical implementation with measurable indicators. The primary contribution is moving moral considerations from abstract philosophical statements into measurable, verifiable, and auditable engineering processes. Rather than asserting pre-verified empirical results, this work defines rigorous verification methods, quantitative metrics, and evaluation protocols that enable reproducibility and scientific validation. By systematically bridging normative ethics with operational practice, the framework advances the emerging discipline of responsible system design, aligning with international regulatory efforts including the EU Artificial Intelligence Act, OECD AI Principles, and UNESCO Recommendations on the Ethics of Artificial Intelligence. The paper demonstrates that moral constraints can be mathematically encoded, empirically measured, and systematically improved through iterative design cycles.
 
-1. Introduction: Problem Statement and Guiding Principle
+---
+
+## 1. Introduction: Problem Statement and Guiding Principle
 
 1.1 The Moral Void in Modern Systems
 
@@ -205,3 +209,4 @@ Appiah, K. A. (2010). The Honor Code: How Moral Revolutions Happen.
 Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.
 
 CC BY 4.0 International Open for analysis and use with attribution.
+
