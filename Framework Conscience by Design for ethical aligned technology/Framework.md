@@ -83,20 +83,20 @@ Global Cooperation: Move toward a multilateral ethical accord that harmonizes di
 
 ## 4. Implementation Roadmap
 
-Short-Term (1–2 years): Pilot conscience layers and audits; integrate diversity platforms; gather global feedback. Outcomes: Data on equity and trust; refined tools.
-Medium-Term (3–5 years): Legislate Ethical Impact Statements; institutionalize oaths and labs. Outcomes: Mainstreamed ethical governance.
+Short-Term (1-2 years): Pilot conscience layers and audits; integrate diversity platforms; gather global feedback. Outcomes: Data on equity and trust; refined tools.
+Medium-Term (3-5 years): Legislate Ethical Impact Statements; institutionalize oaths and labs. Outcomes: Mainstreamed ethical governance.
 Long-Term (5+ years): Embed in ESG; launch Index and Codex; normalize adaptive ethics. Outcomes: Systemic moral evolution.
 
 ---
 
 ## 5. Sample KPIs
 
-Accountability: Percentage of systems with ethical audits – target 85% by 2030.
-Transparency: Percentage of algorithms with traceable provenance – target 70%.
-Inclusion: Diversity index in teams – target ≥ 0.8.
-Sustainability: Energy reduction in AI (gCO₂/tx) – target −30%.
-Ethics Literacy: Percentage of workforce trained – target 90%.
-Emerging Tech: Percentage of systems with adaptive modules – target 60%.
+Accountability: Percentage of systems with ethical audits - target 85% by 2030.
+Transparency: Percentage of algorithms with traceable provenance - target 70%.
+Inclusion: Diversity index in teams - target ≥ 0.8.
+Sustainability: Energy reduction in AI (gCO₂/tx) - target −30%.
+Ethics Literacy: Percentage of workforce trained - target 90%.
+Emerging Tech: Percentage of systems with adaptive modules - target 60%.
 
 ---
 
@@ -110,7 +110,7 @@ Pilot Testing: Open-source collaborations for iterative refinement.
 
 ---
 
-## 7. Neutrality by Design – Cornerstone Protection Against Abuse
+## 7. Neutrality by Design - Cornerstone Protection Against Abuse
 
 No one, no state, corporation, ideology, faith, or profit interest shall ever exploit Conscience by Design as a tool for control, censorship, discrimination, or commercial dominance.
 
@@ -118,17 +118,17 @@ Principle of “Zero-Ideology Core”
 All ethical modules, audits, and conscience layers must be written in formally neutral language, free of value judgments favoring any political, religious, cultural, or commercial agenda.
 Neutrality Check: Each module undergoes automated text analysis and human review by a multicultural, multi-ideological board of at least seven members from diverse civilizational backgrounds. If more than 5% bias is detected, the module is rejected.
 
-Firewall of Intent – Technical Protection
+Firewall of Intent - Technical Protection
 Conscience layers are open-source but with an immutable hash (SHA-3) on each version.
 Any modification, even by authors, triggers a global alert via a decentralized blockchain registry.
 No organization can quietly insert a political or profit filter-changes are visible to all in real time.
 
-Anti-Capture Clause – Legal Protection
+Anti-Capture Clause - Legal Protection
 Conscience by Design is registered as a global public commons under Creative Commons CC0 plus Anti-Capture License (new legal instrument, 2025).
 Prohibited uses include political propaganda, religious indoctrination, commercial discrimination, and censorship of opinions.
 Violation results in automatic license revocation and global public disclosure via the Conscience Index.
 
-Plurality by Default – Mandatory Diversity
+Plurality by Default - Mandatory Diversity
 Every ethical audit must include at least three competing ethical models (for example, utilitarianism, deontology, virtue ethics, African ubuntu, Eastern harmony).
 If any model is excluded from an audit, the audit is invalid.
 This prevents any single ideology from capturing the system.
@@ -157,11 +157,11 @@ Now, Conscience by Design is physically and legally impossible to abuse-because 
 
 ## 8. Anticipated Challenges and Mitigations
 
-Profit Resistance – Demonstrate market benefits such as increased trust and investment; offer pilot incentives.
-Global Disparities – Use regional adaptations and inclusive feedback loops with underrepresented groups.
-Enforcement Complexity – Combine automated tools and human boards; begin with scalable pilots.
-Ethical Fatigue – Use gamified engagement and balance with innovation rewards.
-Innovation Stifling – Maintain flexible frameworks allowing calculated risks, informed by 2025 AI trends.
+Profit Resistance - Demonstrate market benefits such as increased trust and investment; offer pilot incentives.
+Global Disparities - Use regional adaptations and inclusive feedback loops with underrepresented groups.
+Enforcement Complexity - Combine automated tools and human boards; begin with scalable pilots.
+Ethical Fatigue - Use gamified engagement and balance with innovation rewards.
+Innovation Stifling - Maintain flexible frameworks allowing calculated risks, informed by 2025 AI trends.
 
 ---
 
