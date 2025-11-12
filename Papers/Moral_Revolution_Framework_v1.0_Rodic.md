@@ -1,11 +1,7 @@
 # From Declarative Ethics to Operational Conscience: A Three-Tier Framework for Applicable Moral Revolution
 
-Aleksandar Rodić
-Founder, Conscience by Design Initiative
-Belgrade, Serbia
-© 2025 Aleksandar Rodić
-
-Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.
+© 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
+Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
 CC BY 4.0 International Open for analysis and use with attribution.
 
 ---
@@ -228,6 +224,7 @@ Appiah, K. A. (2010). The Honor Code: How Moral Revolutions Happen.
 © 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
 Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
 CC BY 4.0 International Open for analysis and use with attribution.
+
 
 
 
