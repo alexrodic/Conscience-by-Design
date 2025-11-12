@@ -210,24 +210,25 @@ Societal Resonance Quotient assessment framework aggregates multiple dimensions 
 
 ### References
 
-Canca, C. (2020). Operationalizing AI Ethics Principles. Communications of the ACM.
-Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chesney, T., et al. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review.
-Morley, J., Floridi, L., Kinsey, L., & Elhalal, A. (2021). Ethics as a Service: A Pragmatic Operationalisation of AI Ethics. Minds and Machines.
-Wade, M., & Yokoi, T. (2024). How to Implement AI -Responsibly. Harvard Business Review.
-World Economic Forum - AI Governance Alliance. (2024). Briefing Paper Series: Responsible AI Governance.
-OECD. (2019, updated 2024). OECD AI Principles.
-European Union. (2024). Artificial Intelligence Act.
-UNESCO. (2021). Recommendation on the Ethics of Artificial Intelligence.
-Rodić, A. (2025). Declaration of Creation. Conscience by Design Initiative.
-Eriksen, C. (2019). The Dynamics of Moral Revolutions. Ethical Theory and Moral Practice.
-Klenk, M. (2022). Recent Work on Moral Revolutions. Ethical Theory and Moral Practice.
-Appiah, K. A. (2010). The Honor Code: How Moral Revolutions Happen.
+Canca, C. (2020). Operationalizing AI Ethics Principles. Communications of the ACM.  
+Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chesney, T., et al. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review.  
+Morley, J., Floridi, L., Kinsey, L., & Elhalal, A. (2021). Ethics as a Service: A Pragmatic Operationalisation of AI Ethics. Minds and Machines.  
+Wade, M., & Yokoi, T. (2024). How to Implement AI -Responsibly. Harvard Business Review.  
+World Economic Forum - AI Governance Alliance. (2024). Briefing Paper Series: Responsible AI Governance.  
+OECD. (2019, updated 2024). OECD AI Principles.  
+European Union. (2024). Artificial Intelligence Act.  
+UNESCO. (2021). Recommendation on the Ethics of Artificial Intelligence.  
+Rodić, A. (2025). Declaration of Creation. Conscience by Design Initiative.  
+Eriksen, C. (2019). The Dynamics of Moral Revolutions. Ethical Theory and Moral Practice.  
+Klenk, M. (2022). Recent Work on Moral Revolutions. Ethical Theory and Moral Practice.  
+Appiah, K. A. (2010). The Honor Code: How Moral Revolutions Happen.  
 
 ---
 
 © 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
 Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
 CC BY 4.0 International Open for analysis and use with attribution.
+
 
 
 
