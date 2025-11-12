@@ -4,7 +4,7 @@
 **Author:** Aleksandar Rodić  
 **Entrepreneur, Independent Researcher, and Founder of the Conscience by Design Initiative**  
 **Dedication:**  
-To the Generation of Creation — for a future guided by conscience, awareness, and the light of understanding.  
+To the Generation of Creation - for a future guided by conscience, awareness, and the light of understanding.  
 May every system we build preserve life, truth, and the dignity of the human spirit.  
 
 ---
@@ -27,12 +27,12 @@ By making ethical reflection computational, measurable, explainable, and auditab
 ## Introduction  
 
 Artificial intelligence has become the nervous system of modern civilization.  
-It shapes how we work, communicate, and decide — yet ethical foundations often lag behind.  
+It shapes how we work, communicate, and decide - yet ethical foundations often lag behind.  
 
 The **Conscience Layer** addresses this gap by embedding ethical reasoning directly within the architecture of intelligence itself.  
 It is not an external audit mechanism, but an intrinsic layer of self-evaluation.  
 
-> “Every system that can think must also care.” — Aleksandar Rodić (2025)
+> “Every system that can think must also care.” - Aleksandar Rodić (2025)
 
 The Conscience Layer converts ethical awareness into a measurable computational process, bridging moral philosophy and algorithmic design so that intelligence becomes not only powerful, but also responsible.
 
@@ -55,14 +55,14 @@ The prototype consists of four interdependent layers across the AI lifecycle:
 - **Human Autonomy (HAI):** rewards intent preserving freedom and dignity.  
 - **Societal Resonance (SRQ):** models collective ethical impact using a neural estimator.  
 
-Together, they define a *moral vector space* — a living numerical representation of conscience.
+Together, they define a *moral vector space* - a living numerical representation of conscience.
 
 ---
 
 ## Interpretability & Transparency  
 
 Transparency is the language of conscience.  
-The prototype uses **exact SHAP values** for global interpretability and a **closed-form LIME regression** for local analysis — both implemented analytically, without external dependencies.  
+The prototype uses **exact SHAP values** for global interpretability and a **closed-form LIME regression** for local analysis - both implemented analytically, without external dependencies.  
 All events are recorded in a tamper-evident audit trail secured with SHA-256.
 
 ---
@@ -96,7 +96,7 @@ The design principles are aligned with:
 The **Conscience Layer Prototype** makes ethics an operational property of intelligent systems.  
 It turns awareness into architecture and responsibility into measurable integrity.  
 
-> “True intelligence is defined by what it preserves.” — Aleksandar Rodić  
+> “True intelligence is defined by what it preserves.” - Aleksandar Rodić  
 
 By preserving truth, autonomy, and life, technology becomes truly human.
 
@@ -105,7 +105,7 @@ By preserving truth, autonomy, and life, technology becomes truly human.
 ## About the Author  
 
 **Aleksandar Rodić** is an entrepreneur, independent researcher, and founder of the *Conscience by Design Initiative*.  
-His work explores how technology can evolve as a moral and cultural force — merging ethics, innovation, and consciousness to build a more aware civilization.
+His work explores how technology can evolve as a moral and cultural force - merging ethics, innovation, and consciousness to build a more aware civilization.
 
 ---
 
