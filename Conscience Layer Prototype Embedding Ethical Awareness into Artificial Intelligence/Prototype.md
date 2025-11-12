@@ -111,4 +111,5 @@ His work explores how technology can evolve as a moral and cultural force — me
 
 © 2025 Aleksandar Rodić Founder, Conscience by Design Initiative
 Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.
+
 CC BY 4.0 International Open for analysis and use with attribution.
