@@ -1,6 +1,6 @@
 Generation of Creation translating its moral and humanistic principles into operational standards for technology, governance and education.
 
-# CONSCIENCE BY DESIGN: A FRAMEWORK FOR ETHICALLY ALIGNED TECHNOLOGY
+# Conscience by Design: A Framework for Ethically Aligned Technology
 
 Executive Summary
 
