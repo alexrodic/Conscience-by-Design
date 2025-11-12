@@ -1,4 +1,4 @@
-## From Declarative Ethics to Operational Conscience: A Three-Tier Framework for Applicable Moral Revolution
+# From Declarative Ethics to Operational Conscience: A Three-Tier Framework for Applicable Moral Revolution
 
 Aleksandar Rodić
 Founder, Conscience by Design Initiative
@@ -18,7 +18,7 @@ This paper presents a comprehensive three-tier framework for operationalizing mo
 
 ## 1. Introduction: Problem Statement and Guiding Principle
 
-1.1 The Moral Void in Modern Systems
+### 1.1 The Moral Void in Modern Systems
 
 Technological and institutional systems of the 21st century predominantly optimize for efficiency, scalability, and profitability while operating within largely implicit or underspecified moral boundaries. This optimization paradigm has produced well-documented harmful side effects including algorithmic bias, systemic opacity, privacy erosion, disinformation ecosystems, and social polarization. The absence of explicit, enforceable moral constraints creates a moral void in system design where technical feasibility and economic incentive dominate ethical consideration.
 
@@ -34,7 +34,9 @@ This research extends prior work in operational ethics by introducing quantifiab
 
 The primary objectives are to propose a structured three-tier framework for operationalizing moral principles, define measurable indicators for ethical system performance, establish verification protocols enabling scientific reproducibility, demonstrate practical implementation through conceptual prototypes, and contribute to the emerging Moral Revolution in technology design. The framework's novelty lies in its integrated approach combining philosophical foundation, operational methodology, and technical measurement into a coherent architecture for conscientious design.
 
-2. Three-Tier Framework: Structure and Implementation
+---
+
+## 2. Three-Tier Framework: Structure and Implementation
 
 The framework consists of three interconnected tiers forming a continuum from abstract principle to concrete implementation: Declaration, Framework, and Prototype. Each tier serves a distinct purpose while maintaining coherent integration with the others.
 
@@ -64,7 +66,9 @@ The prototype introduces three primary measurable indicators. The Truth Integrit
 
 These indicators allow ethical coherence to be tested empirically through structured evaluation, enabling continuous improvement and comparative assessment across systems.
 
-3. Operational Definitions and Audit Mechanisms
+---
+
+## 3. Operational Definitions and Audit Mechanisms
 
 3.1 Core Operational Definitions
 
@@ -78,7 +82,9 @@ To ensure integrity and accountability, the framework implements robust audit me
 
 These mechanisms align with transparency requirements of the EU Artificial Intelligence Act and OECD AI Principles, providing the technical foundation for regulatory compliance and social trust.
 
-4. Evaluation Methodology and Validation Protocol
+---
+
+## 4. Evaluation Methodology and Validation Protocol
 
 4.1 Structured Evaluation Procedure
 
@@ -90,7 +96,9 @@ Multi-modal measurement combines computational assessment using automated scorin
 
 The validation approach addresses multiple aspects of framework effectiveness. Technical validation includes metric reliability and consistency assessment, computational efficiency and scalability testing, and integration capability with existing systems. Ethical validation encompasses cross-cultural applicability assessment, stakeholder acceptance evaluation, and alignment with diverse ethical frameworks. Practical validation involves implementation feasibility in real-world contexts, organizational adoption barriers and facilitators, and cost-benefit analysis of conscience layer integration.
 
-5. Compliance, Limitations, and Boundary Conditions
+---
+
+## 5. Compliance, Limitations, and Boundary Conditions
 
 5.1 Regulatory Alignment
 
@@ -104,7 +112,9 @@ Contextual calibration requires metric adjustment for specific domains and cultu
 
 The framework explicitly requires human oversight in specific contexts including high-risk applications mandating human review, boundary cases where metrics provide ambiguous guidance, system evolution and metric calibration processes, and ethical framework updates and principle interpretation.
 
-6. Application Scenarios and Implementation Pathways
+---
+
+## 6. Application Scenarios and Implementation Pathways
 
 6.1 Organizational Integration
 
@@ -124,7 +134,9 @@ User-facing elements include clear communication of ethical principles and const
 
 Regulatory and social accountability involves public reporting on ethical performance metrics, third-party audit access to evaluation systems, participation in industry benchmarking initiatives, and contribution to ethical design standard development.
 
-7. Moral Revolution as Cultural and Technical Continuum
+---
+
+## 7. Moral Revolution as Cultural and Technical Continuum
 
 7.1 The Three-Phase Evolution
 
@@ -136,7 +148,9 @@ The framework supports the broader vision of linking human intention, systemic d
 
 The Moral Revolution thus encompasses both technical implementation and cultural transformation, creating ecosystems where ethical consideration becomes intrinsic to technological advancement rather than an external constraint.
 
-8. Publication, Licensing, and Implementation Plan
+---
+
+## 8. Publication, Licensing, and Implementation Plan
 
 8.1 Knowledge Dissemination Strategy
 
@@ -170,7 +184,9 @@ Several promising directions for future work emerge from this framework. Technic
 
 The framework thus serves as both a practical tool for immediate implementation and a research platform for ongoing development in the field of operational ethics.
 
-Appendices
+---
+
+## Appendices
 
 Appendix A: Minimal Conscience Gate Checklist
 
@@ -190,7 +206,9 @@ Human Autonomy Index measurement approach combines choice quality assessing mean
 
 Societal Resonance Quotient assessment framework aggregates multiple dimensions including benefit distribution evaluating equity of positive impacts across stakeholders, harm mitigation assessing effectiveness in preventing and addressing negative consequences, social acceptance measuring alignment with community values and expectations, and long-term viability evaluating sustainability of impacts over extended timeframes.
 
-References
+---
+
+### References
 
 Canca, C. (2020). Operationalizing AI Ethics Principles. Communications of the ACM.
 Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chesney, T., et al. (2019). A Unified Framework of Five Principles for AI in Society. Harvard Data Science Review.
@@ -205,10 +223,13 @@ Eriksen, C. (2019). The Dynamics of Moral Revolutions. Ethical Theory and Moral 
 Klenk, M. (2022). Recent Work on Moral Revolutions. Ethical Theory and Moral Practice.
 Appiah, K. A. (2010). The Honor Code: How Moral Revolutions Happen.
 
+---
+
 © 2025 Aleksandar Rodić Founder, Conscience by Design Initiative
 Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.
 
 CC BY 4.0 International Open for analysis and use with attribution.
+
 
 
 
