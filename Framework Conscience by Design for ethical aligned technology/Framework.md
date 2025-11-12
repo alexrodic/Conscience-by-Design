@@ -30,35 +30,35 @@ Ethical technology arises from plural perspectives. Multidisciplinary, multicult
 
 ## 2. Structural Pillars
 
-Pillar 1: Structural Design Protocols
+**Pillar 1:** Structural Design Protocols
 Develop technical and institutional architectures that embed ethical review within system design.
 Introduce ethical checkpoints during each major phase of development-data collection, model training, deployment, and iteration.
 Adopt value-aligned engineering standards that incorporate human rights, safety, and sustainability indicators into technical KPIs.
 Establish independent audit mechanisms to ensure algorithmic fairness, environmental responsibility, and compliance with international standards like the EU AI Act.
 Integrate emerging tech governance for quantum and neuro-interfaces, with specialized modules for empathy safeguards.
 
-Pillar 2: Cultural Integration
+**Pillar 2:** Cultural Integration
 Sustain conscience not by regulation alone, but by cultivating ethical culture within organizations.
 Implement ethical literacy programs for engineers, managers, and policymakers.
 Create institutional incentives that recognize ethical excellence as a form of innovation.
 Promote narrative responsibility the way technology is described, marketed, and imagined-as a determinant of its moral impact.
 Establish a Code of Conscience Movement for global certification of ethical projects, with open-source tools for community-driven evaluation.
 
-Pillar 3: Educational Transformation
+**Pillar 3:** Educational Transformation
 Embed moral imagination and digital ethics into formal and lifelong learning.
 Develop interdisciplinary curricula combining philosophy, data science, psychology, and ecology.
 Introduce “AI and Society” modules as mandatory components of higher education and professional training.
 Create ethics labs where students and researchers co-develop prototypes under ethical supervision, learning that responsibility is part of creation, not its limitation.
 Partner with platforms for lifelong ecosystems addressing quantum computing and synthetic consciousness.
 
-Pillar 4: Legal and Governance Frameworks
+**Pillar 4:** Legal and Governance Frameworks
 Translate moral intent into enforceable accountability structures.
 Establish ethical compliance standards aligned with human rights conventions.
 Define digital liability principles that clarify shared responsibility among creators, deployers, and regulators.
 Form public oversight boards to ensure that privacy, equity, and autonomy are structurally represented in technology policy.
 Advocate for a Global Tech Ethics Codex as a binding multilateral accord.
 
-Pillar 5: Conscience as a Continuous Process
+**Pillar 5:** Conscience as a Continuous Process
 Ethics is not a checkpoint but a living function within systems.
 Implement feedback loops of accountability that collect and evaluate real-world outcomes continuously.
 Design adaptive moral systems capable of evolving through public dialogue, empirical research, and cultural reflection.
