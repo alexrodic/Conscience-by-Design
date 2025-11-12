@@ -107,17 +107,8 @@ https://c.org/RHgY4LfTwW
 
 https://c.org/bTYfYRStpT
 
-© 2025 Aleksandar Rodić — Conscience by Design & Declaration of Creation.
+---
 
-Released under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-Public Index Card — Declaration of Creation Archive (v1.0)
-
-© 2025 Aleksandar Rodić — Founder of the Conscience by Design Initiative and Author of the Declaration of Creation.
-
-Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-Texts: Declaration of Creation, Conscience by Design, Conscience Layer Prototype, Generation of Creation Manifest.
-
-Purpose: Open, educational, and ethical use worldwide.
-
+© 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
+Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
+CC BY 4.0 International Open for analysis and use with attribution.
