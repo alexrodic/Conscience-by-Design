@@ -14,6 +14,8 @@ abstract: >
   auditable transparency mechanism known as the Ethical Proof-of-Work. Authored and open-sourced by
   Aleksandar Rodić, it represents a foundational step toward human-aligned, transparent,
   and morally aware AI systems.
+doi: 10.5281/zenodo.17602829
+url: "https://doi.org/10.5281/zenodo.17602829"
 version: "1.0.0"
 date-released: "2025-11-05"
 repository-code: "https://github.com/alexrodic/Conscience-by-Design"
