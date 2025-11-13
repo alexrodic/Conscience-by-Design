@@ -235,7 +235,7 @@ Independent research conducted under CC BY 4.0 license.
 Version: v4.3.10 Adoption Edition
 Year: 2025
 License: CC BY 4.0 International
-DOI: 10.5281/zenodo.17602829
+DOI: 10.5281/zenodo.17602829  
 Keywords: Conscience Engineering, Moral Equilibrium, Ethical Systems Theory, Lyapunov Stability, Civilizational Dynamics, Reflective Equilibrium, Truth Integrity, Human Autonomy, Societal Resonance, Rodić Principle, Conscience by Design, Generation of Creation.
 
 Suggested Citation:
@@ -257,8 +257,8 @@ All source code, algorithms, and computational simulations (including the Consci
 
 Global References
 GitHub: Conscience by Design
-Change.org: Declaration of Creation
-Zenodo Archive (v1.2 – DOI Pending)
+Change.org: Declaration of Creation  
+Zenodo Archive DOI: 10.5281/zenodo.17602829
 
 
 Aleksandar Rodić, Conscience by Design, Declaration of Creation, Generation of Creation, The Rodić Principle, Conscience Layer, AI Conscience, Ethical AI, Responsible AI, AI Ethics, Moral Revolution, Human Autonomy, Truth Integrity Score (TIS), Human Autonomy Index (HAI), Societal Resonance Quotient (SRQ), UNESCO AI Ethics, EU AI Act, OECD AI Principles, IEEE 7000, Ethical System Design, Conscience Engineering, Moral Technology, AI Governance, Awareness and Creation.
@@ -266,4 +266,5 @@ Aleksandar Rodić, Conscience by Design, Declaration of Creation, Generation of 
 
 “When awareness matches invention, humanity regains control of its own creation.”
  Aleksandar Rodić, Conscience by Design Initiative (2025)
+
 
