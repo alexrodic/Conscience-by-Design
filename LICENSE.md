@@ -1,5 +1,5 @@
-# Conscience Layer — Ethical Awareness Core
-### © 2025 Aleksandar Rodić — Conscience by Design Initiative
+Conscience Layer — Ethical Awareness Core
+© 2025 Aleksandar Rodić — Conscience by Design Initiative
 Donated freely to humanity as the moral heart for future AI systems.
 Dual License — CC BY 4.0 (text) | MIT (source code)
 
