@@ -21,7 +21,7 @@ Founder of the *Conscience by Design* Initiative
 ### Origin & Author
 
 This project was born from real-world experience - from building, defending, and transforming complex organizations under extreme conditions.  
-Aleksandar Rodić translated two decades of practical leadership into a functional ethical architecture — turning lessons from crisis management, systemic design, and human behavior into measurable conscience frameworks.  
+Aleksandar Rodić translated two decades of practical leadership into a functional ethical architecture - turning lessons from crisis management, systemic design, and human behavior into measurable conscience frameworks.  
 It is not a theory, but a working system for aligning intelligence with integrity.  
 
 ---
