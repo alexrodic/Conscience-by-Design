@@ -28,7 +28,7 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 provided that you include the copyright notice below in all copies or substantial portions of the Software.
 
 
-## MIT License  
+### MIT License  
 Copyright (c) 2025 Aleksandar Rodić  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software  
