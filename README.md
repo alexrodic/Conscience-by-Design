@@ -6,11 +6,11 @@ ethical ai, conscience layer, conscience by design, ai ethics, ai alignment, mor
 -->
 
 ---
-**Conscience Layer — Ethical Awareness Core**  
+**Conscience Layer - Ethical Awareness Core**  
 Original concept and authorship: *Aleksandar Rodić (2025)*  
 Founder of the *Conscience by Design* initiative  
 Donated freely to humanity as the moral heart for future AI systems.  
-License: Dual — **CC BY 4.0 (text)** | **MIT (source code)**  
+License: Dual - **CC BY 4.0 (text)** | **MIT (source code)**  
 
 # Conscience Layer Prototype - 2025 Edition  
 ### Embedding Ethical Awareness into Artificial Intelligence  
@@ -20,7 +20,7 @@ Founder of the *Conscience by Design* Initiative
 
 ### Origin & Author
 
-This project was born from real-world experience — from building, defending, and transforming complex organizations under extreme conditions.  
+This project was born from real-world experience - from building, defending, and transforming complex organizations under extreme conditions.  
 Aleksandar Rodić translated two decades of practical leadership into a functional ethical architecture — turning lessons from crisis management, systemic design, and human behavior into measurable conscience frameworks.  
 It is not a theory, but a working system for aligning intelligence with integrity.  
 
@@ -188,10 +188,10 @@ This repository is part of an open global effort toward **ethically aligned AI**
 
 ### About the Author
 
-**Aleksandar Rodić** is a visionary entrepreneur, systems architect, and founder of the **Conscience by Design Initiative** — a global framework for embedding moral awareness into technology, governance, and education.  
+**Aleksandar Rodić** is a visionary entrepreneur, systems architect, and founder of the **Conscience by Design Initiative** - a global framework for embedding moral awareness into technology, governance, and education.  
 His work bridges philosophy, systems engineering, and AI ethics, transforming conscience from a moral idea into operational architecture.  
 Drawing from decades of leadership in media, logistics, and complex systems, Rodić distilled real-world experience into the *Declaration of Creation*, *Conscience by Design Framework*, *Conscience Layer Prototype*, and *The Rodić Principle*.  
-These works prove that conscience can be designed, measured, and improved — and that progress without integrity is only an illusion of advancement.  
+These works prove that conscience can be designed, measured, and improved - and that progress without integrity is only an illusion of advancement.  
 
-© 2025 **Aleksandar Rodić** — Founder, Conscience by Design Initiative  
-CC BY 4.0 International — Open for analysis and use with attribution.
+© 2025 **Aleksandar Rodić** - Founder, Conscience by Design Initiative  
+CC BY 4.0 International - Open for analysis and use with attribution.
