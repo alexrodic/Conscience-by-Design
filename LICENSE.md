@@ -1,4 +1,4 @@
-Conscience Layer - Ethical Awareness Core  
+## Conscience Layer - Ethical Awareness Core  
 © 2025 Aleksandar Rodić - Conscience by Design Initiative  
 Donated freely to humanity as the moral heart for future AI systems.  
 Dual License - CC BY 4.0 (text) | MIT (source code)  
@@ -27,7 +27,7 @@ All source code contained in this repository (including Python implementations, 
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software,  
 provided that you include the copyright notice below in all copies or substantial portions of the Software.
 
-```
+
 MIT License  
 Copyright (c) 2025 Aleksandar Rodić  
 
@@ -44,11 +44,10 @@ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PA
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,  
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE  
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
 
 ---
 
-### Summary
+## Summary
 
 - **Framework, prototype description, and written works:** CC BY 4.0  
 - **Source code and implementations:** MIT License  
