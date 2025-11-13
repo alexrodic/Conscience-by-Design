@@ -14,6 +14,7 @@ License: Dual - **CC BY 4.0 (text)** | **MIT (source code)**
 
 # Conscience Layer Prototype - 2025 Edition  
 ### Embedding Ethical Awareness into Artificial Intelligence  
+https://doi.org/10.5281/zenodo.17602830
 
 **Author:** Aleksandar Rodić  
 Founder of the *Conscience by Design* Initiative  
