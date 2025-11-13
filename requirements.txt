@@ -1,4 +1,4 @@
-numpy
-scikit-learn
-torch
-statsmodels
+numpy>=1.22
+scikit-learn>=1.1
+torch>=2.0
+statsmodels>=0.13
