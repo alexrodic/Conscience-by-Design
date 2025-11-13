@@ -235,7 +235,7 @@ Independent research conducted under CC BY 4.0 license.
 Version: v4.3.10 Adoption Edition
 Year: 2025
 License: CC BY 4.0 International
-DOI (Pending): 10.2025/Rodic.Principle.4.3.10
+DOI: 10.5281/zenodo.17602829
 Keywords: Conscience Engineering, Moral Equilibrium, Ethical Systems Theory, Lyapunov Stability, Civilizational Dynamics, Reflective Equilibrium, Truth Integrity, Human Autonomy, Societal Resonance, Rodić Principle, Conscience by Design, Generation of Creation.
 
 Suggested Citation:
@@ -266,3 +266,4 @@ Aleksandar Rodić, Conscience by Design, Declaration of Creation, Generation of 
 
 “When awareness matches invention, humanity regains control of its own creation.”
  Aleksandar Rodić, Conscience by Design Initiative (2025)
+
