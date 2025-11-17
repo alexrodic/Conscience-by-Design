@@ -206,7 +206,7 @@ The framework’s alignment with international standards and its practical imple
 [6] Amodei, D. et al. (2016). Concrete problems in AI safety. arXiv:1606.06565.\
 [7] Rodić, A. (2025b). Declaration of Creation. Change.org.\
 [8] Rodić, A. (2025c). Generation of Creation. LinkedIn.\
-[9] Floridi, L. et al. (2018). AI4People—an ethical framework. Minds and Machines, 28, 689–707.\
+[9] Floridi, L. et al. (2018). AI4People-an ethical framework. Minds and Machines, 28, 689–707.\
 [10] European Union (2024). EU Artificial Intelligence Act.\
 [11] Khalil, H. K. (2002). Nonlinear Systems. Prentice Hall.\
 [12] Fazlyab, M. et al. (2019). Efficient Lipschitz constant estimation. NeurIPS, 32.\
@@ -255,4 +255,5 @@ print("Eigenvalues:", eigvals)  # Output: [-0.33, -0.687, -0.636]
 
 
 © 2025 Aleksandar Rodić. This work is licensed under CC BY 4.0 International.
+
 
