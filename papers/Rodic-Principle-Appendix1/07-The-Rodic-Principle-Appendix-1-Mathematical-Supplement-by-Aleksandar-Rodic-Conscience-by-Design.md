@@ -1,4 +1,4 @@
-# Appendix 1 — The Rodić Principle: Mathematical Supplement (Final)
+# Appendix 1 - The Rodić Principle: Mathematical Supplement (Final)
 
 **Author:** Aleksandar Rodić  
 **Affiliation:** Conscience by Design Initiative  
@@ -296,5 +296,6 @@ Code is released under **MIT License**, accompanying text under **CC BY 4.0**.
 This supplement provides the mathematically complete, rigorously verified, reproducible, and scientifically accurate foundation of **The Rodić Principle**. All formulas, inequalities, and theorems have been validated against nonlinear systems theory and stochastic calculus. Numerical simulations confirm stability, convergence rates, and noise-perturbation behavior.
 
 This is the **canonical mathematical framework** supporting the conceptual, ethical, and engineering components of The Rodić Principle.
+
 
 
