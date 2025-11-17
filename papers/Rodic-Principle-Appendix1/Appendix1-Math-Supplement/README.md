@@ -96,7 +96,7 @@ Source code and implementations: MIT License
 
 © 2025 Aleksandar Rodić — Conscience by Design Initiative.
 
-## 6️ requirements.txt
+## requirements.txt
 
 `Appendix1-Math-Supplement/requirements.txt`:
 
