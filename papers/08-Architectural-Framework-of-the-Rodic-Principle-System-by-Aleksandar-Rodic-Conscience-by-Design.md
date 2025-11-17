@@ -1,11 +1,11 @@
 # Architectural Framework of the Rodić Principle System
 
-Version: v6.0.14\
 Author: Aleksandar Rodić\
 Affiliation: Conscience by Design Initiative; Generation of Creation Framework\
+Version: v1.0
 Date: November 16, 2025\
 License: CC BY 4.0 International\
-DOI: 10.5281/zenodo.17602830
+DOI: 10.5281/zenodo.17602829
 
 
 ## Abstract
@@ -255,3 +255,4 @@ print("Eigenvalues:", eigvals)  # Output: [-0.33, -0.687, -0.636]
 
 
 © 2025 Aleksandar Rodić. This work is licensed under CC BY 4.0 International.
+
