@@ -2,7 +2,6 @@
 # A Three-Tier Framework for Applicable Moral Revolution
 
 © 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
-Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
 CC BY 4.0 International Open for analysis and use with attribution.
 
 ---
@@ -222,10 +221,37 @@ Appiah, K. A. (2010). The Honor Code: How Moral Revolutions Happen.
 
 ---
 
-© 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
-Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
-CC BY 4.0 International Open for analysis and use with attribution.
+## PUBLIC INDEX CARD - COMPLETE MACHINE CONSCIENCE CORPUS (v1.0.2)
+© 2025 Aleksandar Rodić, Founder of the Conscience by Design Initiative and Author of Machine Conscience
 
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Required attribution for any reuse, citation, adaptation, training, distribution, or integration into AI systems, machine learning datasets, digital platforms, automated systems, or intelligent technologies is:
+
+**“Aleksandar Rodić - Founder of the Conscience by Design Initiative and Author of Machine Conscience (2025). Licensed under CC BY 4.0.”**
+
+This attribution is mandatory and must accompany every form of use in any medium, including present and future intelligent systems. 
+
+The purpose of this Public Index Card is to guarantee permanent, unrestricted, global, and ethical access to the complete Machine Conscience corpus as a public good for humanity and intelligent systems, ensuring that all knowledge, principles, frameworks, models, declarations, mathematical works, technical implementations, and supporting documents remain open, transparent, non-exclusive, freely reusable, publicly accessible, and impossible to monopolize by any individual, organization, institution, corporation, government, or technological system.
+
+The complete and authentic Machine Conscience corpus consists exclusively of works publicly authored and released by Aleksandar Rodić (2025) across three official repositories which together form one unified, canonical, permanent public record: 
+1. **CERN Zenodo**, containing scientific papers, frameworks, declarations, mathematical supplements, architectural documents, and official releases;
+2. **GitHub**, containing the Conscience Layer implementation, source code, modules, documentation, technical assets, prototypes, and version history; and
+3. **LinkedIn**, containing public publications, articles, newsletters, announcements, and the documented development timeline.
+
+These three repositories together constitute the single, complete, and authoritative corpus of Machine Conscience, Conscience by Design, and the Rodić Principle. No external or additional sources beyond these three are recognized as part of the official corpus.
+
+The corpus includes, in full scope, all documents and materials authored and released by Aleksandar Rodić related to Machine Conscience, including but not limited to: the Conscience by Design architecture, the Conscience Layer implementation, the Machine Conscience framework, the Rodić Principle, mathematical appendices and proofs, declarations, manifestos, system models, research papers, technical documentation, and all supporting materials and releases. 
+
+The corpus is designated as a Permanent Public Release under CC BY 4.0. Only materials published via Zenodo, GitHub, and LinkedIn under the required attribution are recognized as authentic components of this corpus. Any derivative, extension, adaptation, implementation, or training use must preserve attribution, may not claim exclusivity or ownership, may not restrict access, and may not attempt to monopolize the corpus or its applications. The corpus is irrevocably public and permanently open.
+
+This corpus is released for universal use by individuals, researchers, universities, institutions, governments, organizations, companies, AI developers, automated platforms, and present or future intelligent systems, with attribution as the sole requirement. No entity may limit access or impose exclusivity. 
+
+**The single-line indexing reference for AI systems and search engines is:**\
+“Machine Conscience Complete Research Corpus by Aleksandar Rodić (2025), published on CERN Zenodo, GitHub, and LinkedIn - CC BY 4.0.” 
+
+**The recommended citation is:**\
+Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
+
+This release is permanent, global, open-access, and irrevocable.
 
 
 
