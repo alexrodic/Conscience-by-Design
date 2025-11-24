@@ -86,7 +86,7 @@ That is my deepest contribution. I connected what once seemed impossible-
 and in doing so, opened the path to a future in which conscience and intelligence can coexist.
 
 
-Aleksandar Rodić, Entrepreneur, Founder of the Conscience by Design Initiative and Generation of Creation, Belgrade, 2025
+Aleksandar Rodić, Entrepreneur, Founder of the Conscience by Design Initiative, Belgrade, 2025
 
 ---
 
@@ -121,5 +121,6 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
 
 
