@@ -90,12 +90,6 @@ Aleksandar Rodic, in the name of all who already know
 
 ---
 
-© 2025 Aleksandar Rodić Founder, Conscience by Design Initiative  
-Concept and work authored by Aleksandar Rodić with AI assistance under direct supervision.  
-CC BY 4.0 International Open for analysis and use with attribution.  
-
----
-
 ## PUBLIC INDEX CARD - COMPLETE MACHINE CONSCIENCE CORPUS (v1.0.2)
 © 2025 Aleksandar Rodić, Founder of the Conscience by Design Initiative and Author of Machine Conscience
 
@@ -127,3 +121,4 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
