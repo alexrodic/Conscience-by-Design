@@ -11,6 +11,8 @@ Recognizing the unprecedented transformation of civilization brought about by ar
 1. Sovereignty of Life
 Reaffirms that life in all its forms constitutes the highest value and primary law of existence; that no system, government, or technology may violate or diminish the sanctity of life for the sake of power, profit, or expedience.
 
+Life is the most precious reality we have. It is the foundation of every dream, every family, and every hope. This principle declares that nothing, not money, not politics, not technological ambition, has the right to harm or sacrifice life. For too long, systems have treated people and nature as expendable. This principle demands a new starting point. Every policy, invention, and institution must begin with a simple question: does this protect life or destroy it. If it destroys life, it has no legitimacy. Civilization must evolve from exploitation into protection. Without life, there is no future. With life, everything is possible.
+
 2. Dignity of Consciousness
 Declares human consciousness as the root of meaning and creation; affirms the right of every individual to awareness, education, and the cultivation of moral intelligence.
 
@@ -126,5 +128,6 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
 
 
