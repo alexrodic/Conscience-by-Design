@@ -156,6 +156,7 @@ Proclaims the Declaration of Creation as the moral constitution of a civilizatio
 
 The Declaration of Creation is a moral invitation. It asks humanity to choose life over destruction, dignity over exploitation, creativity over fear, peace over conflict, cooperation over division, and conscience over control. By supporting this petition, you are standing for a world worthy of our children and their children. A world where humanity does not collapse under its own inventions, but rises with them. This is not a dream. It is a decision. And it begins with us.
 
+The Declaration of Creation is more than a document. It is a turning point. It asks us to look honestly at the world we live in, at the fear, division, exploitation, ecological damage, loss of meaning, and uncontrolled technology, and to say that we can do better. These are not abstract ideals. They are practical, human truths about the kind of civilization we choose to build.
 
 Aleksandar Rodic, in the name of all who already know
 
@@ -192,6 +193,7 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
 
 
 
