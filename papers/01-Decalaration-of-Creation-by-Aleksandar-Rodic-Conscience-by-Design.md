@@ -86,6 +86,11 @@ Establishes conscience as the supreme law above markets and machines; every deci
 
 Proclaims the Declaration of Creation as the moral constitution of a civilization in awakening binding not through coercion but through awareness. Invites all nations, institutions, communities, and individuals to adopt and uphold these principles as the foundation of the Economy of Creation. Calls Upon the United Nations, UNESCO, and civil society organizations to promote this Declaration as a guiding framework for policy, education, and technological ethics. Adopted in the Spirit of Peace, Dignity, and Human Purpose  for all who choose creation over conquest, and conscience over control.
 
+## Conclusion: A Future We Choose Together
+
+The Declaration of Creation is a moral invitation. It asks humanity to choose life over destruction, dignity over exploitation, creativity over fear, peace over conflict, cooperation over division, and conscience over control. By supporting this petition, you are standing for a world worthy of our children and their children. A world where humanity does not collapse under its own inventions, but rises with them. This is not a dream. It is a decision. And it begins with us.
+
+
 Aleksandar Rodic, in the name of all who already know
 
 ---
@@ -121,4 +126,5 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
 
