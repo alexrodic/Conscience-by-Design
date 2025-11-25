@@ -136,7 +136,13 @@ Regulatory and social accountability involves public reporting on ethical perfor
 
 ### 7.1 The Three-Phase Evolution
 
-The Moral Revolution represents the cultural dimension of this operational model, unfolding through three interconnected phases. Phase 1: Declaration involves awareness and commitment through recognition of ethical responsibilities in system design, articulation of foundational principles and values, commitment to conscientious design practices, and establishment of ethical baselines and boundaries. Phase 2: Framework encompasses application and institutionalization through translation of principles into operational procedures, embedding ethical considerations into organizational processes, development of evaluation methodologies and review mechanisms, and creation of accountability structures and governance models. Phase 3: Prototype includes measurement and improvement through implementation of technical measurement capabilities, empirical validation of ethical performance, continuous improvement through feedback loops, and cultural normalization of ethical quantification.
+The Moral Revolution represents the cultural dimension of this operational model, unfolding through three interconnected phases.
+
+**Phase 1:** Declaration involves awareness and commitment through recognition of ethical responsibilities in system design, articulation of foundational principles and values, commitment to conscientious design practices, and establishment of ethical baselines and boundaries. 
+
+**Phase 2:** Framework encompasses application and institutionalization through translation of principles into operational procedures, embedding ethical considerations into organizational processes, development of evaluation methodologies and review mechanisms, and creation of accountability structures and governance models. 
+
+**Phase 3:** Prototype includes measurement and improvement through implementation of technical measurement capabilities, empirical validation of ethical performance, continuous improvement through feedback loops, and cultural normalization of ethical quantification.
 
 ### 7.2 Generational Impact and Cultural Transformation
 
@@ -196,11 +202,11 @@ Critical framework limitations include the recognition that the framework enable
 
 ### Appendix C: Metric Calculation Technical Specifications
 
-Truth Integrity Score protocol calculates a weighted combination of factual consistency measuring alignment with verified facts, source reliability assessing weighted credibility of information sources, and context appropriateness evaluating relevance and suitability for specific context, with context-dependent weights summing to 1.0.
+**Truth Integrity Score** protocol calculates a weighted combination of factual consistency measuring alignment with verified facts, source reliability assessing weighted credibility of information sources, and context appropriateness evaluating relevance and suitability for specific context, with context-dependent weights summing to 1.0.
 
-Human Autonomy Index measurement approach combines choice quality assessing meaningfulness and range of available options, understanding evaluating user comprehension of system capabilities and limitations, and control measuring effective user influence over system behavior and outcomes, with domain-specific coefficients summing to 1.0.
+**Human Autonomy Index** measurement approach combines choice quality assessing meaningfulness and range of available options, understanding evaluating user comprehension of system capabilities and limitations, and control measuring effective user influence over system behavior and outcomes, with domain-specific coefficients summing to 1.0.
 
-Societal Resonance Quotient assessment framework aggregates multiple dimensions including benefit distribution evaluating equity of positive impacts across stakeholders, harm mitigation assessing effectiveness in preventing and addressing negative consequences, social acceptance measuring alignment with community values and expectations, and long-term viability evaluating sustainability of impacts over extended timeframes.
+**Societal Resonance Quotient** assessment framework aggregates multiple dimensions including benefit distribution evaluating equity of positive impacts across stakeholders, harm mitigation assessing effectiveness in preventing and addressing negative consequences, social acceptance measuring alignment with community values and expectations, and long-term viability evaluating sustainability of impacts over extended timeframes.
 
 ---
 
@@ -252,6 +258,7 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
 
 
 
