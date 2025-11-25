@@ -171,7 +171,7 @@ The next frontier of civilization will not be defined by how advanced our techno
 
 When awareness matches invention, humanity regains control of its own creation.
 
-Appendix - Key Recommendations
+## Appendix - Key Recommendations
 
 Integrate ethical audits at every critical phase of system development.
 Establish global standards linking technological KPIs with social-impact indicators.
@@ -183,7 +183,7 @@ Developed as part of the Generation of Creation Initiative a global movement ded
 
 ---
 
-## Author:
+## Author
 **Aleksandar Rodić** is an entrepreneur, independent researcher, and founder of the *Conscience by Design Initiative*.  
 
 ---
