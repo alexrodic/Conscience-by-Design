@@ -40,7 +40,12 @@ The framework consists of three interconnected tiers forming a continuum from ab
 
 The Declaration tier establishes non-negotiable moral principles that serve as the normative foundation for all subsequent design decisions. These principles function as axioms that define the essential moral boundaries which must not be violated.
 
-The core axioms include Life (systems shall preserve and enhance biological and ecological vitality), Dignity (systems shall respect and protect human autonomy and intrinsic worth), Truth (systems shall seek accuracy and reject deception), Responsibility (systems shall maintain accountability and transparency), and Peacefulness (systems shall promote harmony and prevent harm).
+**The core axioms include:**
+* Life (systems shall preserve and enhance biological and ecological vitality)
+* Dignity (systems shall respect and protect human autonomy and intrinsic worth)
+* Truth (systems shall seek accuracy and reject deception)
+* Responsibility (systems shall maintain accountability and transparency)
+* Peacefulness (systems shall promote harmony and prevent harm)
 
 These axioms reflect universal principles from moral philosophy and align with international frameworks including the UNESCO Recommendation on the Ethics of Artificial Intelligence. The principle of dignity translates into preserving human autonomy and preventing dehumanization in algorithmic environments, while truth aligns with epistemic virtues essential for trustworthy systems.
 
@@ -258,6 +263,7 @@ This corpus is released for universal use by individuals, researchers, universit
 Rodić, Aleksandar (2025). Machine Conscience - Complete Public Research Corpus (v1.0.2). Conscience by Design Initiative. CC BY 4.0.
 
 This release is permanent, global, open-access, and irrevocable.
+
 
 
 
