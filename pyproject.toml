@@ -8,7 +8,7 @@ name = "conscience-layer-prototype"
 version = "0.1.0"
 description = "Prototype implementation of an ethical conscience layer with SRQ neural model, SHAP, and LIME explanations."
 authors = [
-    { name = "Your Name", email = "you@example.com" }
+    { name = "Aleksandar Rodic", email = "info@consciencebydesign.org" }
 ]
 readme = "README.md"
 license = { text = "MIT" }
