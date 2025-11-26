@@ -2,7 +2,7 @@
 Meta description:
 Embedding ethical awareness into artificial intelligence through the Conscience Layer Prototype (2025) - a framework for measurable moral reasoning, transparency, and human-aligned AI.
 Keywords:
-ethical ai, conscience layer, conscience by design, ai ethics, ai alignment, moral reasoning, responsible ai, transparency, explainable ai, human centered ai, alexandar rodic
+ethical ai, conscience layer, conscience by design, ai ethics, ai alignment, moral reasoning, responsible ai, transparency, explainable ai, human centered ai, Aleksandar Rodić
 -->
 
 ---
@@ -43,6 +43,8 @@ moral reasoning into a measurable and computational process.
 > Keywords: AI ethics, machine conscience, moral reasoning, ethical AI, AI alignment, AI transparency, interpretable AI, ethical framework, human-centered design, AI trustworthiness.
 
 ![Conscience Layer Diagram](https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/preview3.png?raw=true)
+
+
 
 ---
 
@@ -91,14 +93,53 @@ an *Ethical Proof of Work* that provides explainable accountability for AI decis
 
 ---
 
-## File Structure  
+# Repository Structure
 
 ```
-conscience-layer-prototype/
-├── conscience_layer.py        # Core implementation
-├── README.md                  # Documentation (this file)
-├── LICENSE.md                 # Dual License (CC BY 4.0 + MIT)
-└── .gitignore
+├── .gitignore
+├── ACKNOWLEDGMENTS.md
+├── assets/
+│   └── preview3.png
+├── AUTHORS.md
+├── CHANGELOG.md
+├── CITATION.cff
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── MANIFEST_OF_DONATION.md
+├── papers/
+│   ├── 01-Decalaration-of-Creation-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   ├── 01-Decalaration-of-Creation-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   ├── 02-Framework-Conscience-by-Design-for-Ethically-Aligned-ai-and-Technology-by-Aleksandar-Rodic.md
+│   ├── 02-Framework-Conscience-by-Design-for-Ethically-Aligned-ai-and-Technology-by-Aleksandar-Rodic.pdf
+│   ├── 03-Prototype-Conscience-Layer-Embedding-Ethical-Awareness-in-ai-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   ├── 03-Prototype-Conscience-Layer-Embedding-Ethical-Awareness-in-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   ├── 04-Moral-Revolution-Framework-for_Responsible-AI-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   ├── 04-Moral-Revolution-Framework-for_Responsible-AI-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   ├── 05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   ├── 05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   ├── 06-The-Rodic-Principle-Universal-Axiomatic-Model-for-Conscious-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   ├── 06-The-Rodic-Principle-Universal-Axiomatic-Model-for-Conscious-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   ├── Rodic-Principle-Appendix1/
+│   │   ├── 07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   │   ├── 07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   │   └── Appendix1-Math-Supplement/
+│   │       ├── README.md
+│   │       ├── requirements.txt
+│   │       ├── rodic_principle_math_supplement.py
+│   │       └── tests/
+│   │           └── test_rodic_principle.py
+│   ├── 08-Architectural-Framework-of-the-Rodic-Principle-System-by-Aleksandar-Rodic-Conscience-by-Design.md
+│   ├── 08-Architectural-Framework-of-the-Rodic-Principle-System-by-Aleksandar-Rodic-Conscience-by-Design.pdf
+│   ├── 09-Synthesis-How-I-Unified-the-Immeasurable-with-the-Measurable.md
+│   └── 09-Synthesis-How-I-Unified-the-Immeasurable-with-the-Measurable.pdf
+│
+├── prototype/
+│   └── conscience_layer_prototype.py
+├── pyproject.toml
+├── README.md
+├── requirements.txt
+├── ROADMAP.md
+└── SECURITY.md
 ```
 
 ---
@@ -106,16 +147,20 @@ conscience-layer-prototype/
 ## Running the Prototype  
 
 ### Requirements  
+
 ```
 pip install torch numpy statsmodels scikit-learn
 ```
 
 ### Run Simulation  
+
 ```bash
-python conscience_layer.py
+cd prototype
+python conscience_layer_prototype.py simulate
 ```
 
 Example output:
+
 ```
 SRQ model trained. Final MSE loss: 0.0025
 Run 1: Original output 1
@@ -130,6 +175,95 @@ Simulation Summary:
 ```
 
 ---
+
+# Release v1.0.2 introduces:
+- Axioms of moral invariance  
+- A formal geometry of conscience  
+- Stability and convergence functions  
+- Ethical equilibrium dynamics  
+- Mathematical grounding for TIS/HAI/SRQ metrics  
+- Integration pathway to the operational Conscience Layer
+
+Accompanying documents included in this release:
+- **07 — Appendix 1 Mathematical Supplement (Markdown)**  
+- **08 — Architectural Framework of the Rodić Principle System**  
+- **09 — Synthesis: How the Immeasurable Was Unified with the Measurable**
+
+---
+
+### Appendix 1 — Mathematical Supplement
+
+The Appendix 1 code is located in:
+
+```
+papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/
+```
+
+This includes:
+
+- Mathematical constructs  
+- Convergence simulations  
+- Metric behaviors  
+- Proof-of-concept code  
+- Unit tests (pytest)  
+- Minimal dependency environment
+
+### Run the supplement:
+
+```bash
+cd papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/
+pip install -r requirements.txt
+python rodic_principle_math_supplement.py
+```
+
+Example output:
+
+```
+=== Global Stability Condition (Theorem 6.1) ===
+lambda_min(PQ) = 1.0000
+L * lambda_max(P) = 0.5000
+Inequality holds: True
+================================================
+
+=== Spectral Analysis of A ===
+Eigenvalues(A) = [-1.1 -1.3 -1.6]
+Deterministic half-life τ_1/2^det = 0.6301
+A is Hurwitz: True
+================================
+
+=== Stationary covariance Γ of OU process ===
+[[1.81963986e-02 3.20768658e-04 3.99106003e-06]
+ [3.20768658e-04 1.53929045e-02 2.15517241e-04]
+ [3.99106003e-06 2.15517241e-04 1.25000000e-02]]
+=============================================
+
+```
+
+
+
+This will produce the following files in the current directory:
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig1_deterministic_convergence.png?raw=true" width="300" align="left">
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig2_potential_levels.png?raw=true" width="300" align="left">
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig3_lyapunov_decay.png?raw=true" width="300" align="left">
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig4_eigenvalues.png?raw=true" width="300" align="left">
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig5_ou_trajectories.png?raw=true" width="300" align="left">
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig6_halflife_hist.png?raw=true" width="300" align="left">
+<img src="https://github.com/alexrodic/Conscience-by-Design/blob/main/assets/fig7_det_vs_sto.png?raw=true" width="300" >
+
+
+### Run tests:
+
+```bash
+pytest tests/test_rodic_principle.py
+```
+
+---
+
+# Release v1.0.3 introduces:
+
+
+---
+
 
 ## Philosophy  
 
@@ -152,20 +286,19 @@ making ethical reflection a built-in process rather than a post-factum correctio
 ## License  
 
 This repository is distributed under a **Dual License** model:
+- **Text, Framework, and Documentation:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- **Source Code:** [MIT License](https://opensource.org/licenses/MIT)
 
-- **Text, Framework, and Documentation:**  
-  [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+© 2025 **Aleksandar Rodić**  Founder of *Conscience by Design*  
 
-- **Source Code:**  
-  [MIT License](https://opensource.org/licenses/MIT)
+--- 
 
-© 2025 **Aleksandar Rodić**  
-Founder of *Conscience by Design*  
-[Declaration of Creation - Global Moral Charter](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter)
-
-[Aleksandar Rodic](https://rs.linkedin.com/in/aleksandar-rodic-84a58484?trk=public_post_feed-actor-image)
-
-[Generation of Creation](https://www.linkedin.com/posts/aleksandar-rodic-84a58484_generationofcreation-humanpotential-ai-activity-7385679551277715456-HO8J?utm_source=share&utm_medium=member_desktop&rcm=ACoAABHh47oBCtCHuaF9Ta0Dx8_A7XsxEcK1Tww)
+## Official References
+* [Declaration of Creation - Global Moral Charter](https://www.change.org/p/adopt-the-declaration-of-creation-as-a-global-moral-charter
+) A foundational ethical document providing the moral framework behind *Conscience by Design*.
+* [Aleksandar Rodić](https://rs.linkedin.com/in/aleksandar-rodic-84a58484) Founder of *Conscience by Design* 
+* [Generation of Creation](https://www.linkedin.com/posts/aleksandar-rodic-84a58484_generationofcreation-humanpotential-ai-activity-7385679551277715456-HO8J)
+ Human Potential Initiative 
 
 ---
 
