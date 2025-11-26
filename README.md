@@ -260,7 +260,10 @@ pytest tests/test_rodic_principle.py
 ---
 
 # Release v1.0.3 introduces:
-
+**New in this version:**
+* Added PDF version of all Markdown documents in the /papers folder
+* Improved documentation accessibility, citation readiness, and archival reliability
+**No code or structural change:** This release is focused solely on providing high-quality, publication-ready documentation.
 
 ---
 
