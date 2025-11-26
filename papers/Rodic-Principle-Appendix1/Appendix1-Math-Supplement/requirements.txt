@@ -1,6 +1,5 @@
-Minimal Python dependencies.
-- Python 3.9+ (recommended)
-- NumPy
-- SciPy
-- Matplotlib
-- Pytest (for running the test suite)
+numpy
+scipy
+sympy
+matplotlib
+pytest
