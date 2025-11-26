@@ -335,7 +335,7 @@ def plot_ou_sample_paths(A: np.ndarray, Sigma: np.ndarray) -> None:
     plt.savefig("fig5_ou_trajectories.png", dpi=300)
     plt.close()
 
-rodic_principle_math_supplement
+
 def plot_half_life_histogram(half_lives: np.ndarray) -> None:
     """
     Produce Fig. 6: histogram of stochastic half-life times.
@@ -476,3 +476,4 @@ if __name__ == "__main__":
     print("=== Stationary covariance Γ of OU process ===")
     print(Gamma)
     print("=============================================")
+
