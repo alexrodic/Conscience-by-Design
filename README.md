@@ -92,8 +92,8 @@ Key elements include:
 
 This paper serves as the central junction between theory and working software, supported by the full source code in the `prototype/` directory.
 
-**PDF:** 
-`papers/03-Prototype-Conscience-Layer-Embedding-Ethical-Awareness-in-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf`
+**PDF:** [03-Prototype-Conscience-Layer-Embedding-Ethical-Awareness-in-ai-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/03-Prototype-Conscience-Layer-Embedding-Ethical-Awareness-in-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
+
 
 ---
 
@@ -112,8 +112,7 @@ The paper discusses historical patterns of technological disruption and argues t
 
 Through a blend of ethical theory, systems design, and sociopolitical analysis, the paper outlines how moral integrity becomes a technical requirement, not merely a philosophical aspiration.
 
-**PDF:** 
-`papers/04-Moral-Revolution-Framework-for_Responsible-AI-by-Aleksandar-Rodic-Conscience-by-Design.pdf`
+**PDF:** [04-Moral-Revolution-Framework-for_Responsible-AI-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/04-Moral-Revolution-Framework-for_Responsible-AI-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
 
 ---
 
@@ -134,8 +133,7 @@ Bullet highlights:
 
 This paper serves as the expert-level companion to the prototype implementation, providing the conceptual transparency necessary for audits, certification, and interdisciplinary evaluation.
 
-**PDF:** 
-`papers/05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf`
+**PDF:** [05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
 
 ---
 
@@ -156,8 +154,7 @@ The work establishes:
 
 The Rodić Principle is the theoretical backbone of the entire corpus, defining conscience as a quantifiable and structurally coherent phenomenon.
 
-**PDF:** 
-`papers/06-The-Rodic-Principle-Universal-Axiomatic-Model-for-Conscious-by-Aleksandar-Rodic-Conscience-by-Design.pdf`
+**PDF:** [06-The-Rodic-Principle-Universal-Axiomatic-Model-for-Conscious-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/06-The-Rodic-Principle-Universal-Axiomatic-Model-for-Conscious-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
 
 ---
 
@@ -178,10 +175,9 @@ Highlights:
 
 This supplement serves as the technical reference for researchers working on machine ethics, dynamical systems, and computational sociology.
 
-**PDF:** 
-`papers/Rodic-Principle-Appendix1/07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design.pdf`
+**PDF:** [07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/Appendix1-Math-Supplement/07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
 
-**Appendix Directory:**  `papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/`
+**Appendix Directory:** [papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/)
 
 ---
 
@@ -202,8 +198,7 @@ Key contributions:
 
 This paper provides the complete bridge between theory, mathematics, and institution-scale system design.
 
-**PDF:** 
-`papers/08-Architectural-Framework-of-the-Rodic-Principle-System-by-Aleksandar-Rodic-Conscience-by-Design.pdf`
+**PDF:** [08-Architectural-Framework-of-the-Rodic-Principle-System-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/08-Architectural-Framework-of-the-Rodic-Principle-System-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
 
 ---
 
@@ -224,8 +219,7 @@ Key reflections include:
 
 This synthesis serves as a concluding reflection and a conceptual bridge connecting all parts of the corpus.
 
-**PDF:** 
-`papers/09-Synthesis-How-I-Unified-the-Immeasurable-with-the-Measurable.pdf`
+**PDF:** [09-Synthesis-How-I-Unified-the-Immeasurable-with-the-Measurable](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/09-Synthesis-How-I-Unified-the-Immeasurable-with-the-Measurable.pdf)
 
 ---
 
