@@ -44,7 +44,7 @@ Aleksandar Rodić translated two decades of practical leadership into a function
 
 The *Declaration of Creation* establishes the foundational moral charter for the Conscience by Design initiative. It articulates a system of universal ethical invariants intended to govern both human and machine intelligence in an era of accelerating technological capability. By defining the protection of life, dignity, and autonomy as absolute constraints, the document provides an axiomatic boundary within which all ethical, computational, and governance structures must operate.
 
-This Declaration reframes technology as a moral actor and posits that intelligence—whether organic or artificial—cannot be ethically neutral. It outlines the structural weaknesses of contemporary systems that lack internal moral grounding and warns of the existential consequences of delegating power to architectures lacking conscience. The document positions conscience not merely as a human virtue but as a systemic requirement for any form of intelligence operating at scale.
+This Declaration reframes technology as a moral actor and posits that intelligence-whether organic or artificial-cannot be ethically neutral. It outlines the structural weaknesses of contemporary systems that lack internal moral grounding and warns of the existential consequences of delegating power to architectures lacking conscience. The document positions conscience not merely as a human virtue but as a systemic requirement for any form of intelligence operating at scale.
 
 Furthermore, the Declaration identifies the need for a universal ethical substrate shared by humans, institutions, and artificial agents. It describes the role of conscience as the stabilizing mechanism that prevents degeneracy, coercion, and misalignment. By connecting philosophical grounding with practical constraints, it bridges abstract moral theory and applied technological ethics.
 
@@ -56,7 +56,7 @@ The Declaration serves as the ideological and normative touchstone for the entir
 
 ## 2. Conscience by Design Framework
 
-The *Conscience by Design Framework* introduces a comprehensive methodology for translating moral principles into concrete engineering requirements. It establishes the first structured approach for embedding ethical constraints directly into the lifecycle of intelligent systems—from conceptualization, to architecture, implementation, governance, and post-deployment evaluation.
+The *Conscience by Design Framework* introduces a comprehensive methodology for translating moral principles into concrete engineering requirements. It establishes the first structured approach for embedding ethical constraints directly into the lifecycle of intelligent systems-from conceptualization, to architecture, implementation, governance, and post-deployment evaluation.
 
 The Framework argues that ethics must not be treated as an external regulatory layer but as an intrinsic design property. It defines a set of converging processes that map moral rules to measurable system behaviors, ensuring that values remain stable and enforceable throughout development. Through its layered design logic, the Framework transforms abstract ethical rules into actionable technical constraints and verifiable system properties.
 
@@ -81,7 +81,7 @@ This paper introduces the *Conscience Layer Prototype*, the first functional imp
 
 The Conscience Layer is designed as a supervisory module that governs and influences the decision-making pipeline of an AI system. It does not replace underlying models but evaluates their behavior, enforces ethical constraints, and maintains continuous alignment with human dignity and social stability. This architecture mirrors biological models of conscience, where higher-order evaluative systems modulate behavior.
 
-The prototype includes a cryptographically verifiable audit chain using SHA-256 hashes, ensuring transparency and traceability for all ethical evaluations. Every decision passes through an immutable log, enabling reproducible accountability and preventing tampering. The layer also integrates explainability methods—SHAP and LIME—to illuminate which features contribute to ethical states, allowing engineers and auditors to analyze ethical deviations.
+The prototype includes a cryptographically verifiable audit chain using SHA-256 hashes, ensuring transparency and traceability for all ethical evaluations. Every decision passes through an immutable log, enabling reproducible accountability and preventing tampering. The layer also integrates explainability methods-SHAP and LIME-to illuminate which features contribute to ethical states, allowing engineers and auditors to analyze ethical deviations.
 
 Key elements include:  
 - A complete Python implementation of the Conscience Layer architecture  
@@ -108,7 +108,7 @@ The Framework introduces a layered model that integrates:
 
 This triadic architecture provides a pathway for harmonizing human intentions, societal norms, and machine decision-making. It also serves as a diagnostic tool for identifying systemic misalignments within current technology ecosystems.
 
-The paper discusses historical patterns of technological disruption and argues that the absence of moral grounding in intelligence—artificial or human—leads to structural collapse, coercive dynamics, and loss of autonomy. It positions conscience as the stabilizing element required for sustaining prosperous, human-centered technological evolution.
+The paper discusses historical patterns of technological disruption and argues that the absence of moral grounding in intelligence-artificial or human-leads to structural collapse, coercive dynamics, and loss of autonomy. It positions conscience as the stabilizing element required for sustaining prosperous, human-centered technological evolution.
 
 Through a blend of ethical theory, systems design, and sociopolitical analysis, the paper outlines how moral integrity becomes a technical requirement, not merely a philosophical aspiration.
 
@@ -187,7 +187,7 @@ This integrative work explains the conceptual pathway that led to the unificatio
 
 The paper explores the limitations of traditional ethical theories in the context of machine intelligence and argues for a measurable, structural approach. It explains why TIS, HAI, and SRQ were selected as the core triad and how they encapsulate integrity, autonomy, and social resonance. These elements are shown to form a complete representation of ethical behavior in technical systems.
 
-The author presents the theoretical and methodological insights that allowed the immeasurable—moral value, human dignity, societal cohesion—to be mapped into quantitative dimensions. This includes discussions of abstraction, reductionism, epistemology, and the nature of moral representation in computational frameworks.
+The author presents the theoretical and methodological insights that allowed the immeasurable-moral value, human dignity, societal cohesion-to be mapped into quantitative dimensions. This includes discussions of abstraction, reductionism, epistemology, and the nature of moral representation in computational frameworks.
 
 Key reflections include:  
 - The philosophical basis of conscience as a systemic property  
@@ -334,12 +334,12 @@ Simulation Summary:
 - Integration pathway to the operational Conscience Layer
 
 Accompanying documents included in this release:
-- **07 — Appendix 1 Mathematical Supplement (Markdown)**  
-- **08 — Architectural Framework of the Rodić Principle System**  
-- **09 — Synthesis: How the Immeasurable Was Unified with the Measurable**
+- **07 - Appendix 1 Mathematical Supplement (Markdown)**  
+- **08 - Architectural Framework of the Rodić Principle System**  
+- **09 - Synthesis: How the Immeasurable Was Unified with the Measurable**
 
 
-### Appendix 1 — Mathematical Supplement
+### Appendix 1 - Mathematical Supplement
 
 The Appendix 1 code is located in:
 
