@@ -6,13 +6,13 @@ ethical ai, conscience layer, conscience by design, ai ethics, ai alignment, mor
 -->
 
 ---
-**Conscience Layer - Ethical Awareness Core**  
+**Complete Machine Conscience Corpus 2025: Conscience Layer - Ethical Awareness Core**  
 Original concept and authorship: *Aleksandar Rodić (2025)*  
 Founder of the *Conscience by Design* initiative  
 Donated freely to humanity as the moral heart for future AI systems.  
 License: Dual - **CC BY 4.0 (text)** | **MIT (source code)**  
 
-# Conscience Layer Prototype - 2025 Edition  
+# Complete Machine Conscience Corpus:<br>Conscience Layer Prototype - 2025 Edition  
 ### Embedding Ethical Awareness into Artificial Intelligence  
 
 [![DOI](https://zenodo.org/badge/1089627338.svg)](https://doi.org/10.5281/zenodo.17602829)    
