@@ -116,27 +116,6 @@ Through a blend of ethical theory, systems design, and sociopolitical analysis, 
 
 ---
 
-## 5. Explanation of the Conscience Layer
-
-This paper provides a deep analytical exploration of the internal logic, functional pathways, and interpretative mechanisms of the Conscience Layer. It explains how the architecture evaluates data integrity, intent alignment, and societal resonance through its tri-metric system. Each component of the Conscience Layer is dissected conceptually, mathematically, and operationally to illuminate its role within the ethical supervision pipeline.
-
-The document explains the full lifecycle of ethical evaluation—from raw input data, through system intent recognition, to final output analysis. It describes how each metric contributes distinct ethical insights while collectively forming an integrated moral evaluation. The paper shows how information flows through the layer, how discrepancies are detected, and how the system intervenes in ethically ambiguous situations.
-
-Additionally, it explores how the Conscience Layer collaborates with underlying AI models while maintaining independence as a supervisory authority. This includes discussions of concurrency, override mechanisms, trust calibration, and inter-module communication. Scenarios illustrate how the layer reacts to violations, uncertainty, or harmful outputs, revealing its practical role in risk mitigation.
-
-Bullet highlights:  
-- Detailed mapping of the Conscience Layer’s internal logic  
-- Interpretation of TIS, HAI, and SRQ in dynamic decision contexts  
-- Mechanisms for ethical correction and behavioral modulation  
-- Interaction between conscience layer and base AI inference  
-- Practical case analyses of moral decision pathways  
-
-This paper serves as the expert-level companion to the prototype implementation, providing the conceptual transparency necessary for audits, certification, and interdisciplinary evaluation.
-
-**PDF:** [05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/05-Explanation-of-Conscience-Layer-ethical-ai-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
-
----
-
 ## 6. The Rodić Principle – Universal Axiomatic Model for Conscience
 
 The *Rodić Principle* introduces a mathematically grounded, axiomatic model for representing conscience as a dynamical system. It defines a tri-dimensional ethical state space regulated by the TIS–HAI–SRQ metrics and establishes a set of invariants that govern system behavior. These invariants ensure that ethical degradation cannot occur without explicit violation of the underlying axioms.
