@@ -175,7 +175,7 @@ Highlights:
 
 This supplement serves as the technical reference for researchers working on machine ethics, dynamical systems, and computational sociology.
 
-**PDF:** [07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/Appendix1-Math-Supplement/07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
+**PDF:** [07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/Rodic-Principle-Appendix1/07-The-Rodic-Principle-Appendix-1-Mathematical-Supplement-by-Aleksandar-Rodic-Conscience-by-Design.pdf)
 
 **Appendix Directory:** [papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/](https://github.com/alexrodic/Conscience-by-Design/blob/main/papers/Rodic-Principle-Appendix1/Appendix1-Math-Supplement/)
 
