@@ -13,7 +13,7 @@ ethical ai, conscience layer, conscience by design, ai ethics, ai alignment, mor
 - [Release Notes](#release-v102-introduces)
 - [Repository Structure](#repository-structure)
 - [License](#license)
-- [Public Index Card](#public-index-card---complete-machine-conscience-corpus-v102)
+- [Public Index Card](#public-index-card---complete-machine-conscience-corpus-v103)
 
 # Conscience by Design:<br>Complete Machine Conscience Corpus 2025
 ### Embedding Ethical Awareness into Artificial Intelligence  
